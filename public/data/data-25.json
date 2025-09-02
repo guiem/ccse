@@ -1,0 +1,3267 @@
+[
+  {
+    "question": "España es…",
+    "answers": [
+      "una monarquía parlamentaria.",
+      "una república federal.",
+      "una monarquía federal."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1001"
+  },
+  {
+    "question": "La ley fundamental de España se llama…",
+    "answers": [
+      "Constitución.",
+      "Ley básica.",
+      "Ordenamiento esencial."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1002"
+  },
+  {
+    "question": "Según la Constitución española, la soberanía nacional reside en…",
+    "answers": [
+      "el pueblo español.",
+      "el Gobierno del Estado.",
+      "el Congreso de los Diputados."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1003"
+  },
+  {
+    "question": "El Instituto de las Mujeres es…",
+    "answers": [
+      "una institución europea.",
+      "un organismo español.",
+      "una ONG."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1004"
+  },
+  {
+    "question": "¿Cuántas religiones oficiales hay en España?",
+    "answers": [
+      "Ninguna.",
+      "Una.",
+      "Dos."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1005"
+  },
+  {
+    "question": "El castellano o español es lengua oficial…",
+    "answers": [
+      "en toda España.",
+      "solo donde no hay otras lenguas.",
+      "en toda la Península Ibérica."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1006"
+  },
+  {
+    "question": "¿Cuál de estas fuerzas de seguridad es de ámbito autonómico?",
+    "answers": [
+      "Policía local.",
+      "Guardia Civil.",
+      "Policía Foral de Navarra."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1007"
+  },
+  {
+    "question": "¿Qué fuerza de seguridad está en toda España?",
+    "answers": [
+      "La Policía Foral de Navarra.",
+      "El Cuerpo Nacional de Policía.",
+      "Los Mossos d’Esquadra."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1008"
+  },
+  {
+    "question": "En la Constitución se establece la separación de poderes: el poder ejecutivo, el legislativo y el…",
+    "answers": [
+      "judicial.",
+      "informativo.",
+      "político."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1009"
+  },
+  {
+    "question": "La bandera de España debe utilizarse…",
+    "answers": [
+      "solo los días de fiesta oficial.",
+      "en todos los edificios públicos.",
+      "solo en actos del Gobierno español. 18"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1010"
+  },
+  {
+    "question": "¿Quién fue el primer rey de España?",
+    "answers": [
+      "Fernando VII.",
+      "Carlos I.",
+      "Juan Carlos I."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1011"
+  },
+  {
+    "question": "La gestión de la sanidad es competencia de…",
+    "answers": [
+      "el Estado.",
+      "las comunidades autónomas.",
+      "los ayuntamientos."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1012"
+  },
+  {
+    "question": "¿Quién fue el primer presidente del Gobierno de España en democracia?",
+    "answers": [
+      "Mariano Rajoy.",
+      "Adolfo Suárez.",
+      "José Luis Rodríguez Zapatero."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1013"
+  },
+  {
+    "question": "¿Cuál de estos organismos se encarga de interpretar la Constitución?",
+    "answers": [
+      "El Poder Constitucional.",
+      "El Tribunal Constitucional.",
+      "El Consejo General del Poder Judicial."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1014"
+  },
+  {
+    "question": "¿Quién modera el funcionamiento de las instituciones españolas?",
+    "answers": [
+      "El presidente del Gobierno.",
+      "El rey.",
+      "El director de la Real Academia Española."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1015"
+  },
+  {
+    "question": "¿Cómo se llama la cámara de representación territorial en España?",
+    "answers": [
+      "Senado.",
+      "Diputación permanente.",
+      "Congreso de los Diputados."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1016"
+  },
+  {
+    "question": "¿Cuántas ciudades autónomas hay en España?",
+    "answers": [
+      "17.",
+      "2.",
+      "50."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1017"
+  },
+  {
+    "question": "¿Cómo se aprobó la Constitución?",
+    "answers": [
+      "Por ley.",
+      "En referéndum.",
+      "Lo mandó el rey."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1018"
+  },
+  {
+    "question": "¿Cómo se llama la ley más importante de cada comunidad autónoma?",
+    "answers": [
+      "Estatuto de Autonomía.",
+      "Normativa autonómica.",
+      "Ley de la comunidad."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1019"
+  },
+  {
+    "question": "Las instalaciones culturales y deportivas públicas son competencia del…",
+    "answers": [
+      "Ayuntamiento.",
+      "Ministerio de Educación, Formación Profesional y Deportes.",
+      "Ministerio de Igualdad."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1020"
+  },
+  {
+    "question": "¿Quién dirige la administración militar de España?",
+    "answers": [
+      "Los ayuntamientos.",
+      "El Gobierno.",
+      "Las Cortes Generales. 19"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1021"
+  },
+  {
+    "question": "¿Qué hay en las islas Baleares, en vez de diputaciones?",
+    "answers": [
+      "Cabildos.",
+      "Consejos insulares.",
+      "Centros de diputados."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1022"
+  },
+  {
+    "question": "¿Qué ciudad tiene más habitantes?",
+    "answers": [
+      "Sevilla.",
+      "Barcelona.",
+      "Zaragoza."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1023"
+  },
+  {
+    "question": "Las Cortes Generales representan…",
+    "answers": [
+      "al pueblo español.",
+      "a los partidos políticos.",
+      "a los ministros."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1024"
+  },
+  {
+    "question": "El Congreso de los Diputados y el Senado constituyen el poder…",
+    "answers": [
+      "ejecutivo.",
+      "legislativo.",
+      "judicial."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1025"
+  },
+  {
+    "question": "¿Qué ley dicta el Gobierno en casos de especial urgencia?",
+    "answers": [
+      "El decreto ley.",
+      "La ley ordinaria.",
+      "la ley orgánica."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1026"
+  },
+  {
+    "question": "¿Cuántas comunidades autónomas hay en España?",
+    "answers": [
+      "8.",
+      "17.",
+      "25."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1027"
+  },
+  {
+    "question": "Los colores de la bandera española son…",
+    "answers": [
+      "blanco y rojo.",
+      "rojo y amarillo.",
+      "amarillo y blanco."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1028"
+  },
+  {
+    "question": "¿Dónde está la sede del Gobierno de España?",
+    "answers": [
+      "En Madrid.",
+      "En Barcelona.",
+      "En Sevilla."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1029"
+  },
+  {
+    "question": "La bandera azul con 12 estrellas amarillas en círculo es la bandera de…",
+    "answers": [
+      "la Unión Europea.",
+      "El Parlamento Europeo.",
+      "la Comisión de Europa."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1030"
+  },
+  {
+    "question": "En las elecciones municipales se vota a…",
+    "answers": [
+      ". alcaldes y concejales",
+      "ministros y ministras.",
+      "diputados y senadores."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1031"
+  },
+  {
+    "question": "¿Qué lengua es oficial en el País Vasco?",
+    "answers": [
+      "El bable.",
+      "El aragonés.",
+      "El euskera. 20"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1032"
+  },
+  {
+    "question": "Todos los españoles tienen el deber de conocer la lengua…",
+    "answers": [
+      "autonómica del Estado.",
+      "oficial del Estado.",
+      "local del Estado."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1033"
+  },
+  {
+    "question": "El aranés es una lengua cooficial que se habla en un pequeño territorio de…",
+    "answers": [
+      "Cataluña.",
+      "la Rioja.",
+      "Aragón."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1034"
+  },
+  {
+    "question": "Las instituciones de una comunidad autónoma son: la asamblea legislativa, el consejo de gobierno y…",
+    "answers": [
+      "la diputación.",
+      "el presidente.",
+      "el delegado de gobierno."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1035"
+  },
+  {
+    "question": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+    "answers": [
+      "El gallego.",
+      "El aragonés.",
+      "El murciano."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1036"
+  },
+  {
+    "question": "¿Qué institución tiene como fin la promoción de la enseñanza de la lengua española y la difusión de la cultura en español?",
+    "answers": [
+      "El Instituto Nacional de Administración Pública.",
+      "El Instituto Nacional de Estadística.",
+      "El Instituto Cervantes."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1037"
+  },
+  {
+    "question": "¿Cuál de los siguientes organismos trabaja para conseguir la normalización lingüística?",
+    "answers": [
+      "El Institut Ramon Llull.",
+      "El Instituto Cervantes.",
+      "La Real Academia Española."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1038"
+  },
+  {
+    "question": "¿Dónde vive el presidente del Gobierno?",
+    "answers": [
+      "En el Palacio Real.",
+      "En el Palacio de la Zarzuela.",
+      "En el Palacio de la Moncloa."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1039"
+  },
+  {
+    "question": "¿Cuál de los siguientes cuerpos forma parte de las Fuerzas Armadas de España?",
+    "answers": [
+      "La Policía Foral.",
+      "La Guardia Civil.",
+      "El Ejército del Aire."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1040"
+  },
+  {
+    "question": "¿Quiénes forman parte del Gobierno?",
+    "answers": [
+      "Los ministros.",
+      "Los concejales.",
+      "Los alcaldes."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1041"
+  },
+  {
+    "question": "España es un…",
+    "answers": [
+      "estado social y democrático de Derecho.",
+      "estado libre asociado.",
+      "estado confederado."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1042"
+  },
+  {
+    "question": "¿Cuál de las siguientes siglas corresponde a un partido político?",
+    "answers": [
+      "PP.",
+      "PIB.",
+      "UE. 21"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1043"
+  },
+  {
+    "question": "¿Qué título tiene la futura reina, hija del rey?",
+    "answers": [
+      "Princesa de Asturias.",
+      "Princesa de Aragón.",
+      "Duquesa de Alba."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1044"
+  },
+  {
+    "question": "¿Con qué rey se restaura la democracia en España después del régimen de Franco?",
+    "answers": [
+      "Con Carlos III.",
+      "Con Alfonso XIII.",
+      "Con Juan Carlos I."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1045"
+  },
+  {
+    "question": "¿En qué año se aprobó la Constitución española?",
+    "answers": [
+      "En 1957.",
+      "En 1978.",
+      "En 2001."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1046"
+  },
+  {
+    "question": "¿Cuántas comunidades autónomas tienen su propia bandera?",
+    "answers": [
+      "Ninguna.",
+      "Todas.",
+      "Las que tienen una lengua cooficial."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1047"
+  },
+  {
+    "question": "¿Qué organismo oficial atiende las quejas de los ciudadanos por el mal funcionamiento de las administraciones?",
+    "answers": [
+      "La Oficina de Atención al Consumidor.",
+      "La Policía Nacional.",
+      "El Defensor del Pueblo."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1048"
+  },
+  {
+    "question": "¿Cuántas firmas, como mínimo, deben recoger los ciudadanos para poder presentar una proposición de ley?",
+    "answers": [
+      "250 000.",
+      "100 000.",
+      "500 000."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1049"
+  },
+  {
+    "question": "¿A cuál de estas organizaciones internacionales pertenece España?",
+    "answers": [
+      "Al Mercado Común del Sur (MERCOSUR).",
+      "A la Organización de las Naciones Unidas (ONU).",
+      "A la Unión Económica Euroasiática (UEE)."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1050"
+  },
+  {
+    "question": "En la organización de la Administración se distinguen tres niveles: central, autonómica y…",
+    "answers": [
+      "estatal.",
+      "regional.",
+      "local."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1051"
+  },
+  {
+    "question": "El poder legislativo corresponde...",
+    "answers": [
+      "al presidente y los ministros.",
+      "a los jueces y magistrados.",
+      "a los diputados y senadores."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1052"
+  },
+  {
+    "question": "¿Dónde vive el rey?",
+    "answers": [
+      "En el Palacio de la Moneda.",
+      "En el Palacio de la Zarzuela.",
+      "En el Palacio de la Moncloa."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1053"
+  },
+  {
+    "question": "El nombre oficial del parlamento español es…",
+    "answers": [
+      "Cortes Generales.",
+      "Congreso de los Diputados.",
+      "Senado. 22"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1054"
+  },
+  {
+    "question": "El Gobierno está formado por el presidente, uno o más vicepresidentes y los…",
+    "answers": [
+      "concejales.",
+      "ministros.",
+      "gobernadores."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1055"
+  },
+  {
+    "question": "¿Quién puede reinar en España?",
+    "answers": [
+      "Solo los hombres.",
+      "Solo las mujeres.",
+      "Tanto los hombres como las mujeres."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1056"
+  },
+  {
+    "question": "El Tribunal de Cuentas depende de…",
+    "answers": [
+      "la Presidencia del Gobierno.",
+      "las Cortes Generales.",
+      "el Ministerio de Hacienda."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1057"
+  },
+  {
+    "question": "¿Quién es la tercera autoridad del Estado, después del rey y el presidente del Gobierno?",
+    "answers": [
+      "El presidente del Senado.",
+      "El ministro de Economía.",
+      "El presidente del Congreso de los Diputados."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1058"
+  },
+  {
+    "question": "¿Qué lengua cooficial se habla en las islas Baleares?",
+    "answers": [
+      "Gallego.",
+      "Catalán.",
+      "Euskera."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1059"
+  },
+  {
+    "question": "La Constitución defiende valores tales como la libertad, la igualdad, el pluralismo político y…",
+    "answers": [
+      "la justicia.",
+      "la solidaridad.",
+      "la fraternidad."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1060"
+  },
+  {
+    "question": "¿Cuántos kilómetros cuadrados tiene España, más o menos?",
+    "answers": [
+      "100 000.",
+      "500 000.",
+      "1 000 000."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1061"
+  },
+  {
+    "question": "¿Cuántos millones de habitantes tiene España?",
+    "answers": [
+      "35 millones.",
+      "48 millones.",
+      "62 millones."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1062"
+  },
+  {
+    "question": "¿Cuál de estos es un órgano consultivo del Gobierno de España?",
+    "answers": [
+      "El Parlamento Europeo.",
+      "El Consejo de Estado.",
+      "El Tribunal Constitucional."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1063"
+  },
+  {
+    "question": "¿Quién dirige la política interior y exterior de España?",
+    "answers": [
+      "El rey.",
+      "El Gobierno.",
+      "El Congreso de los Diputados."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1064"
+  },
+  {
+    "question": "El Defensor del Pueblo depende de…",
+    "answers": [
+      "el Consejo de Ministros.",
+      "el Tribunal de Cuentas.",
+      "las Cortes Generales."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1065"
+  },
+  {
+    "question": "El Instituto Etxepare tiene como misión la difusión del…",
+    "answers": [
+      "euskera y la cultura vasca.",
+      "bable y la cultura cántabra.",
+      "gallego y la cultura galaica. 23"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1066"
+  },
+  {
+    "question": "La Comunidad Iberoamericana de Naciones está formada por…",
+    "answers": [
+      "22 países de América y de Europa.",
+      "América del Sur y España.",
+      "todos los países donde se habla español."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1067"
+  },
+  {
+    "question": "La Secretaría Xeral de Política Lingüística difunde y promociona la lengua y la cultura…",
+    "answers": [
+      "catalanas.",
+      "gallegas.",
+      "vascas."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1068"
+  },
+  {
+    "question": "¿Cómo se llama el rey de España?",
+    "answers": [
+      "Juan Carlos I.",
+      "Felipe VI.",
+      "Alfonso XIII."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1069"
+  },
+  {
+    "question": "¿Cómo se llama el órgano de gobierno de los jueces y magistrados?",
+    "answers": [
+      "Tribunal Supremo.",
+      "Consejo General del Poder Judicial.",
+      "Consejo de Estado."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1070"
+  },
+  {
+    "question": "¿Quién aprueba los presupuestos generales del Estado?",
+    "answers": [
+      "Las Cortes Generales.",
+      "La Junta Electoral Central.",
+      "El rey."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1071"
+  },
+  {
+    "question": "La Constitución española es…",
+    "answers": [
+      "la ley fundamental.",
+      "parte de otra ley.",
+      "una ley secundaria."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1072"
+  },
+  {
+    "question": "Las Cortes Generales están compuestas por el Senado y…",
+    "answers": [
+      "el Congreso de los Diputados.",
+      "el Tribunal Supremo.",
+      "el Consejo de Estado."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1073"
+  },
+  {
+    "question": "¿Quién elabora las leyes?",
+    "answers": [
+      "El poder ejecutivo.",
+      "El poder legislativo.",
+      "El poder judicial."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1074"
+  },
+  {
+    "question": "La defensa de la integridad territorial de España corresponde a…",
+    "answers": [
+      "la Policía Nacional y la Guardia Civil.",
+      "las Fuerzas Armadas.",
+      "la Policía Nacional y las policías autonómicas."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1075"
+  },
+  {
+    "question": "El Ejército español participa desde 1989 en misiones de paz de la…",
+    "answers": [
+      "Organización de Estados Iberoamericanos (OEI).",
+      "Unión Europea Occidental (UEO).",
+      "Organización de Naciones Unidas (ONU)."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1076"
+  },
+  {
+    "question": "¿Quién vigila puertos y aeropuertos, fronteras y costas?",
+    "answers": [
+      "La Guardia Civil.",
+      "La Policía local.",
+      "La Policía Nacional. 24"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1077"
+  },
+  {
+    "question": "¿Quién hace el control de pasaportes en las fronteras de España?",
+    "answers": [
+      "La Guardia Civil.",
+      "La Policía local.",
+      "La Policía Nacional."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1078"
+  },
+  {
+    "question": "¿Quién controla la circulación de coches en las ciudades?",
+    "answers": [
+      "La Guardia Civil.",
+      "La Policía local.",
+      "La Policía Nacional."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1079"
+  },
+  {
+    "question": "¿Cómo se llama la policía autonómica de Cataluña?",
+    "answers": [
+      "Guardia Civil.",
+      "Ertzaintza.",
+      "Mossos d'Esquadra."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1080"
+  },
+  {
+    "question": "¿Cómo se llama la policía autonómica del País Vasco?",
+    "answers": [
+      "Ertzaintza.",
+      "Guardia Civil.",
+      "Mossos d'Esquadra."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1081"
+  },
+  {
+    "question": "¿Desde qué año es rey Felipe VI?",
+    "answers": [
+      "Desde 1975.",
+      "Desde 2014.",
+      "Desde 2020."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1082"
+  },
+  {
+    "question": "¿Quién regula el tráfico en los pueblos y ciudades?",
+    "answers": [
+      "La Guardia Civil.",
+      "Protección Civil.",
+      "La Policía Local."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1083"
+  },
+  {
+    "question": "¿Quién puede presentar una queja al Defensor del Pueblo?",
+    "answers": [
+      "Solo los ciudadanos legalmente residentes.",
+      "Solo los españoles mayores de 18 años.",
+      "Todos los ciudadanos, españoles o extranjeros."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1084"
+  },
+  {
+    "question": "En España el voto en las elecciones es…",
+    "answers": [
+      "un derecho.",
+      "un deber.",
+      "una obligación."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1085"
+  },
+  {
+    "question": "¿Quién vigila el tráfico en las carreteras?",
+    "answers": [
+      "La Guardia Civil.",
+      "La Policía Nacional.",
+      "El Ejército de Tierra."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1086"
+  },
+  {
+    "question": "¿Qué organismo se encarga de recaudar los impuestos?",
+    "answers": [
+      "El Tribunal de Cuentas.",
+      "La Agencia Tributaria.",
+      "El Consejo Económico y Social."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1087"
+  },
+  {
+    "question": "¿Dónde se publican las leyes nacionales?",
+    "answers": [
+      "En el boletín del Instituto Nacional de Estadística (INE).",
+      "En el Portal de la Administración Electrónica (PAe).",
+      "En el Boletín Oficial del Estado (BOE). 25"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1088"
+  },
+  {
+    "question": "¿Cómo se llaman los órganos de gobierno que solo existen en Canarias?",
+    "answers": [
+      "Cabildos.",
+      "Consejos Insulares.",
+      "Diputaciones."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1089"
+  },
+  {
+    "question": "¿Dónde se difunde toda la información sobre novedades e iniciativas de la Administración electrónica?",
+    "answers": [
+      "En el INE (Instituto Nacional de Estadística).",
+      "En el BOE (Boletín Oficial del Estado).",
+      "En el PAe (Portal de la Administración Electrónica)."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1090"
+  },
+  {
+    "question": "¿Cuál es el número de teléfono de información de la Administración General del Estado?",
+    "answers": [
+      "010.",
+      "060.",
+      "091."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1091"
+  },
+  {
+    "question": "España está organizada en…",
+    "answers": [
+      "cantones.",
+      "comunidades autónomas.",
+      "estados federales."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1092"
+  },
+  {
+    "question": "¿Cuántos partidos políticos hay en España?",
+    "answers": [
+      "Ninguno.",
+      "Uno.",
+      "Muchos."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1093"
+  },
+  {
+    "question": "¿Dónde tiene lugar la investidura del presidente del Gobierno?",
+    "answers": [
+      "En el Palacio de la Moncloa.",
+      "En el Congreso de los Diputados.",
+      "En el Senado."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1094"
+  },
+  {
+    "question": "¿Quién tiene el mando supremo de las Fuerzas Armadas?",
+    "answers": [
+      "El rey.",
+      "El presidente del Gobierno.",
+      "El ministro de Defensa."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1095"
+  },
+  {
+    "question": "¿Quién es el representante del Estado en una comunidad autónoma?",
+    "answers": [
+      "El presidente de la comunidad autónoma.",
+      "El delegado del Gobierno.",
+      "El presidente de la Asamblea autonómica."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1096"
+  },
+  {
+    "question": "¿Cuántas provincias hay en España?",
+    "answers": [
+      "45.",
+      "50.",
+      "55."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1097"
+  },
+  {
+    "question": "La enseñanza de las lenguas cooficiales es competencia…",
+    "answers": [
+      "del Estado.",
+      "de la comunidad autónoma.",
+      "de la provincia."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1098"
+  },
+  {
+    "question": "El poder ejecutivo corresponde…",
+    "answers": [
+      "al Gobierno del Estado.",
+      "al Congreso y al Senado.",
+      "a los jueces y magistrados. 26"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1099"
+  },
+  {
+    "question": "¿Cuántas cámaras hay en el Parlamento español?",
+    "answers": [
+      "Una.",
+      "Dos.",
+      "Tres."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1100"
+  },
+  {
+    "question": "El suministro de agua y el alumbrado de las ciudades es competencia de …",
+    "answers": [
+      "el ayuntamiento.",
+      "el Gobierno autonómico.",
+      "el Ministerio de Obras Públicas y Urbanismo."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1101"
+  },
+  {
+    "question": "En materias como nacionalidad, inmigración, emigración o extranjería solo tiene competencia…",
+    "answers": [
+      "el Estado.",
+      "las comunidades autónomas.",
+      "los ayuntamientos."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1102"
+  },
+  {
+    "question": "¿Cuántas mujeres han sido presidentas de Gobierno en España?",
+    "answers": [
+      "Ninguna.",
+      "Una.",
+      "Dos."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1103"
+  },
+  {
+    "question": "Las relaciones internacionales son competencia de…",
+    "answers": [
+      "el Estado.",
+      "las comunidades autónomas.",
+      "los ayuntamientos."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1104"
+  },
+  {
+    "question": "El Ayuntamiento está formado por el alcalde y…",
+    "answers": [
+      "los concejales.",
+      "los diputados.",
+      "los senadores."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1105"
+  },
+  {
+    "question": "¿Quiénes forman el gobierno de las comunidades autónomas?",
+    "answers": [
+      "El presidente y los ministros.",
+      "El alcalde y los concejales.",
+      "El presidente y los consejeros."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1106"
+  },
+  {
+    "question": "¿Cuál es el órgano de gobierno en los municipios?",
+    "answers": [
+      "El ayuntamiento.",
+      "La diputación.",
+      "El cabildo."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1107"
+  },
+  {
+    "question": "¿Cómo se llaman los órganos de gobierno de las provincias españolas?",
+    "answers": [
+      "Cabildos.",
+      "Consejos Insulares.",
+      "Diputaciones."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1108"
+  },
+  {
+    "question": "¿Cuál es el órgano superior del poder ejecutivo?",
+    "answers": [
+      "El Gobierno.",
+      "Las Fuerzas Armadas.",
+      "Las Cortes Generales."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1109"
+  },
+  {
+    "question": "El idioma español también se llama…",
+    "answers": [
+      "aragonés.",
+      "castellano.",
+      "leonés."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1110"
+  },
+  {
+    "question": "¿A quiénes se elige en las elecciones al Parlamento Europeo?",
+    "answers": [
+      "A los ministros europeos.",
+      "A los consejeros delegados.",
+      "A los eurodiputados. 27"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1111"
+  },
+  {
+    "question": "Los españoles pueden votar a partir de los…",
+    "answers": [
+      "16 años.",
+      "18 años.",
+      "21 años."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1112"
+  },
+  {
+    "question": "Algunos ciudadanos extranjeros pueden votar en las elecciones…",
+    "answers": [
+      "municipales.",
+      "autonómicas.",
+      "generales."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1113"
+  },
+  {
+    "question": "¿Quién controla la gestión financiera del Estado?",
+    "answers": [
+      "El Banco de España.",
+      "La Agencia Tributaria.",
+      "El Tribunal de Cuentas."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1114"
+  },
+  {
+    "question": "¿A quiénes se elige en las elecciones generales?",
+    "answers": [
+      "A los senadores y diputados.",
+      "A los eurodiputados.",
+      "A los concejales."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1115"
+  },
+  {
+    "question": "¿Cuántos miembros tiene el Congreso de los Diputados?",
+    "answers": [
+      "300.",
+      "350.",
+      "400."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1116"
+  },
+  {
+    "question": "Los municipios y provincias forman parte de la Administración…",
+    "answers": [
+      "autonómica.",
+      "local.",
+      "central."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 1,
+    "task_id": "1117"
+  },
+  {
+    "question": "La comunidad autónoma más poblada de España es…",
+    "answers": [
+      "Andalucía.",
+      "Cataluña.",
+      "Castilla y León."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1118"
+  },
+  {
+    "question": "¿Cómo se llama la organización que defiende los intereses de los trabajadores?",
+    "answers": [
+      "Asociación.",
+      "Partido.",
+      "Sindicato."
+    ],
+    "task": "tarea_1",
+    "correct_answer": 2,
+    "task_id": "1119"
+  },
+  {
+    "question": "¿Cuál de las siguientes personalidades ha sido presidente del Gobierno de España?",
+    "answers": [
+      "José María Aznar.",
+      "Manuel Fraga.",
+      "Dolores Ibárruri. 28 29 TAREA 2 DERECHOS Y DEBERES FUNDAMENTALES Fig. 7: La Constitución española En la Constitución de 1978 se recogen los derechos fundamentales, deberes y libertades de los españoles, dentro y fuera de España, y de los residentes extranjeros. Algunos de los derechos, deberes y libertades más importantes establecidos en la Constitución española de 1978 son los siguientes: ARTÍCULO 6 Los partidos políticos expresan el pluralismo político de acuerdo con la voluntad popular y son instrumento para la participación política. Su creación es libre dentro del respeto a la Constitución y a la ley. Su estructura y funcionamiento deberán ser democráticos. ARTÍCULO 10 Las normas relativas a los derechos fundamentales y a libertades -que reconoce la Constitución- se deben interpretar de conformidad con la Declaración Universal de los Derechos Humanos y los tratados y acuerdos internacionales firmados por España. 30 ARTÍCULO 12 Los españoles son mayores de edad a los 18 años. ARTÍCULO 14 Los españoles [por nacimiento o los que lo sean por haber obtenido la nacionalidad española] son iguales ante la ley y no podrá existir discriminación por su nacimiento, raza, sexo, religión o cualquier otra condición o circunstancia personal o social. ARTÍCULO 15 Todos tienen derecho a la vida y a la integridad física y moral. Se elimina la pena de muerte y se prohíbe la tortura. ARTÍCULO 16 1. Se garantiza la libertad ideológica y religiosa de los individuos y las comunidades. 2. Nadie puede ser obligado a decir cuáles son sus ideas políticas o religiosas. 3. No hay ninguna religión oficial en España. [Por eso España es un estado aconfesional]. ARTÍCULO 18 1. Se garantiza el derecho al honor y a que se respeten la vida familiar y personal. 2. El domicilio es inviolable. Nadie puede entrar sin permiso del titular. La policía solo podrá entrar por resolución judicial o cuando se esté cometiendo un delito. 3. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, excepto si hay resolución judicial. 4. La ley limita el uso de la informática para garantizar el honor y la intimidad. [También se limita el acceso de terceras personas a datos de carácter personal] ARTÍCULO 19 Los españoles tienen el derecho a elegir libremente dónde quieren vivir. Pueden desplazarse libremente por todo el territorio español y entrar y salir sin que pueda limitarse este derecho por motivos políticos o ideológicos. ARTÍCULO 20 1. Se reconocen y protegen los derechos: a) A expresar y difundir libremente los pensamientos, ideas y opiniones por cualquier medio escrito u oral. b) A la producción y creación literaria, artística, científica y técnica. 31 c) A que los profesores puedan impartir sus enseñanzas con libertad. d) A comunicar o recibir libremente información verdadera por cualquier medio de difusión (libertad de prensa). 2. Todas estas libertades no tendrán ningún tipo de censura, su único límite es el respeto a los derechos reconocidos a los españoles y, especialmente, el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia. ARTÍCULO 22 1. Se reconoce el derecho de asociación. 2. Están prohibidas las asociaciones con fines ilegales. ARTÍCULO 23 Los ciudadanos tienen derecho a participar en los asuntos políticos, pudiéndose presentar ellos mismos a las elecciones o eligiendo a sus representantes. [Tienen derecho de voto todos los españoles mayores de 18 años y quienes no se les haya quitado este derecho por sentencia judicial]. ARTÍCULO 25 1. Una persona solo puede ser condenada por acciones u omisiones que en el momento de producirse sean delito. 2. Las penas de cárcel están orientadas a la reeducación y reinserción social. ARTÍCULO 27 1. Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza. 4. La enseñanza básica es obligatoria y gratuita. [Consta de dos etapas: Educación Primaria (de 6 a 12 años) y Educación Secundaria Obligatoria (de 12 a 16 años)] . ARTÍCULO 28 1. Los ciudadanos tienen derecho a pertenecer a cualquier sindicato. 2. Se reconoce el derecho a la huelga de los trabajadores para defender sus intereses y se prevé el mantenimiento de los servicios mínimos a la comunidad mientras esta dure. ARTÍCULO 30 1. Los españoles tienen el derecho y el deber de defender a España. […] 32 2. Los ciudadanos deben ayudar en los casos de grave riesgo, catástrofe o calamidad pública. ARTÍCULO 31 1. Todos los ciudadanos deben pagar unos impuestos para contribuir a sostener los gastos públicos de acuerdo a su capacidad económica. 2. El gasto público administrará equitativamente los recursos públicos. ARTÍCULO 32 1. La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y divorcio y sus efectos. 2. La edad mínima para contraer matrimonio es de 16 años. ARTÍCULO 37 La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como que se cumplan los convenios. ARTÍCULO 41 Todos los ciudadanos tendrán acceso a un sistema de Seguridad Social público, que les garantizará atención en situaciones de necesidad, especialmente para los que no tienen trabajo. ARTÍCULO 43 Los poderes públicos deben proteger la salud y promover la educación sanitaria, la educación física y el deporte. ARTÍCULO 45 Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo. ARTÍCULO 47 Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. ARTÍCULO 48 Los jóvenes tienen el derecho de participar libremente en el desarrollo político, social, económico y cultural del país. 33 ARTÍCULO 51 Los poderes públicos garantizarán la defensa y protección de los consumidores y usuarios, así como la seguridad, la salud y sus intereses económicos. ARTÍCULO 54 El Defensor del Pueblo es designado por las Cortes Generales para la defensa de los derechos y libertades públicas de los ciudadanos. Tiene funciones de Alto Comisionado de las Cortes Generales y puede supervisar la actividad de la Administración Pública. [Los ciudadanos pueden dirigirse a él para denunciar casos de malas prácticas]. [Los españoles, como miembros de la Unión Europea, también pueden dirigirse o plantear reclamaciones a las instituciones y organismos europeos, como el Tribunal de Justicia de la UE de Luxemburgo, o el Centro Europeo del Consumidor]. ARTÍCULO 117 La justicia surge del pueblo y la administran jueces y magistrados de forma independiente y responsable. ARTÍCULO 118 Hay que cumplir las sentencias de los jueces y tribunales, así como colaborar con ellos cuando se lo pidan. ARTÍCULO 119 La justicia será gratuita cuando así lo diga la ley y, en todo caso, para aquellos sin recursos económicos. 34 35 PREGUNTAS PARA LA TAREA 2"
+    ],
+    "task": "tarea_1",
+    "correct_answer": 0,
+    "task_id": "1120"
+  },
+  {
+    "question": "La mayoría de edad en España es a los 16 años.",
+    "answers": [
+      "Verdadero.",
+      "Falso. 2002 Los españoles que obtienen la nacionalidad por residencia deben esperar tres años para poder votar en las elecciones. a) Verdadero. b) Falso. 2003 Los jóvenes tienen derecho a participar libremente en el desarrollo político del país. a) Verdadero. b) Falso. 2004 El funcionamiento de los partidos políticos tiene que ser democrático. a) Verdadero. b) Falso. 2005 Se puede obligar a alguien a decir cuáles son sus ideas políticas o religiosas. a) Verdadero. b) Falso. 2006 Se puede limitar a una persona el derecho a entrar y salir libremente de España por motivos ideológicos. a) Verdadero. b) Falso. 2007 La Educación Primaria (de 6 a 12 años) es gratuita y obligatoria. a) Verdadero. b) Falso. 2008 La Constitución garantiza el derecho de los españoles a una vivienda digna. a) Verdadero. b) Falso. 2009 En España la policía puede entrar en cualquier casa sin resolución judicial en cualquier momento. a) Verdadero. b) Falso. 2010 Se garantiza el secreto de las comunicaciones de los españoles, salvo resolución judicial. a) Verdadero. b) Falso. 36 2011 Todos los españoles, ya sean mayores o menores de edad, tienen derecho a votar en las elecciones. a) Verdadero. b) Falso. 2012 Los profesores pueden enseñar con libertad, dentro de los límites de la Constitución. a) Verdadero. b) Falso. 2013 La Constitución reconoce únicamente los derechos fundamentales de los españoles. a) Verdadero. b) Falso. 2014 En España existe la pena de muerte. a) Verdadero. b) Falso. 2015 La ley limita el acceso de terceras personas a datos de carácter personal. a) Verdadero. b) Falso. 2016 La libertad de prensa está limitada por el respeto al honor de las personas. a) Verdadero. b) Falso. 2017 En España las causas de separación y divorcio están reguladas por la ley. a) Verdadero. b) Falso 2018 Todos los españoles pagan la misma cantidad de impuestos. a) Verdadero. b) Falso. 2019 En España los hombres y las mujeres tienen los mismos derechos. a) Verdadero. b) Falso. 2020 La enseñanza obligatoria consta de dos etapas: Educación Primaria y Educación Secundaria Obligatoria. a) Verdadero b) Falso 2021 En España hay una religión oficial. a) Verdadero. b) Falso. 2022 La atención sanitaria pública es gratuita. a) Verdadero. b) Falso. 37 2023 Los poderes públicos deben promover la educación física y el deporte. a) Verdadero. b) Falso. 2024 En España está reconocido el derecho de asociación. a) Verdadero. b) Falso. 2025 En caso de huelga, es obligatorio por ley mantener unos servicios mínimos. a) Verdadero. b) Falso. 2026 Los trabajadores tienen derecho a hacer huelga. a) Verdadero. b) Falso. 2027 La libertad ideológica está garantizada solo en parte del territorio nacional. a) Verdadero. b) Falso. 2028 Todos los ciudadanos tienen acceso al sistema de Seguridad Social público, excepto si están desempleados. a) Verdadero. b) Falso. 2029 Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo. a) Verdadero. b) Falso. 2030 Todo el mundo tiene derecho a expresar su opinión. a) Verdadero b) Falso 2031 La edad mínima para casarse en España es de 12 años. a) Verdadero. b) Falso. 2032 La Ley prohíbe la discriminación por cualquier circunstancia personal o social. a) Verdadero. b) Falso. 2033 Los poderes públicos garantizan la defensa de los consumidores. a) Verdadero. b) Falso. 2034 Los jueces administran la justicia en España según las indicaciones del Gobierno. a) Verdadero. b) Falso. 38 2035 Los españoles deben ayudar en los casos de catástrofe o calamidad pública. a) Verdadero. b) Falso. 2036 En España los ciudadanos pueden elegir en qué ciudad quieren vivir. a) Verdadero. b) Falso. 39 TAREA 3 ORGANIZACIÓN TERRITORIAL DE ESPAÑA. GEOGRAFÍA FÍSICA Y POLÍTICA GEOGRAFÍA FÍSICA Y POLÍTICA España está situada en el sur de Europa y tiene frontera con Andorra, Francia, Portugal y Marruecos. Es el cuarto país más grande del continente, con una extensión de 505 944 km2. Es uno de los países más montañosos de Europa, con una altitud media de 650 metros sobre el nivel del mar. La cifra oficial de habitantes es de 48 797 875 a 1 de julio de 2024. España está compuesta por: • la mayor parte de la península ibérica (excepto Portugal); • las islas Baleares, en el mar Mediterráneo; • las islas Canarias, en el océano Atlántico; • las ciudades de Ceuta y Melilla, situadas en la costa norte de África. Fig. 8: Mapa de ríos y mares de España 40 ACCIDENTES GEOGRÁFICOS MÁS IMPORTANTES DE ESPAÑA • Ríos: los ríos más importantes de España que desembocan en el océano Atlántico son: Miño, Duero, Tajo, Guadiana y Guadalquivir. En el mar Mediterráneo desembocan los ríos Ebro, Júcar, Segura y Turia. • Meseta: es una extensa llanura situada en el centro de la península ibérica, con una altura media de más de 600 m sobre el nivel del mar, dividida por el Sistema Central. • Sistemas montañosos : los más importantes de la península ibérica, de norte a sur, son los Pirineos, donde se sitúa el tercer monte más alto de España, el Aneto; el Sistema Central, en el que se encuentra la Sierra de Guadarrama, y los Sistemas Bético y Penibético, donde se localiza el segundo pico más alto de España, el Mulhacén, en Sierra Nevada. La montaña más alta de España es un volcán situado en la isla de Tenerife, el Teide. Fig. 9: Sistemas montañosos y picos más importantes España fue uno de los primeros países de Europa en comenzar a proteger la naturaleza; la primera Ley de Parques Nacionales se aprobó en 1916. Tiene 16 parques nacionales; su gestión y protección se hace a través de la Red de Parques Nacionales. Los parques nacionales de España son, en la actualidad: Islas Atlánticas de Galicia, Picos de Europa (Asturias, Castilla y León y Cantabria), Ordesa y Monte Perdido (Aragón), Aigüestortes y Estany de Sant Maurici (Cataluña), Monfragüe (Extremadura), Sierra de Guadarrama (Madrid), Cabañeros y Tablas de Daimiel (Castilla-La Mancha), Doñana y Sierra Nevada 41 (Andalucía), Archipiélago de Cabrera (Islas Baleares) y Caldera de Taburiente, Teide, Timanfaya y Garajonay (Canarias). EL CLIMA España tiene más de 3000 horas de sol al año, por lo que es uno de los países más cálidos de Europa. Debido a su situación geográfica, España se caracteriza por su variedad de climas: • Clima oceánico: es el de las comunidades del norte de España que están junto al mar Cantábrico y al océano Atlántico. Se caracteriza por temperaturas suaves todo el año. Llueve mucho. • Clima mediterráneo: es el de los territorios situados al este con el mar Mediterráneo y al sur con el océano Atlántico. Tienen temperaturas suaves en invierno y calurosas en verano. Llueve poco, aunque a veces de forma intensa. • Clima continental: es el de las comunidades del centro de la península ibérica. Las temperaturas son extremas: inviernos fríos, veranos muy calurosos, lluvias moderadas y, a veces, nieva. • Clima subtropical: es el de las islas Canarias. Tiene temperaturas suaves todo el año, con una media de 22 ºC. Llueve poco, aunque a veces de manera intensa. En el mapa político de España, se puede observar la división de España en comunidades y ciudades autónomas. Fig. 10: Mapa político de España 42 Comunidades autónomas Provincias Capital de provincia Capital de la comunidad autónoma ANDALUCÍA ALMERÍA Almería Sevilla CÁDIZ Cádiz CÓRDOBA Córdoba GRANADA Granada HUELVA Huelva JAÉN Jaén MÁLAGA Málaga SEVILLA Sevilla ARAGÓN HUESCA Huesca Zaragoza TERUEL Teruel ZARAGOZA Zaragoza PRINCIPADO DE ASTURIAS ASTURIAS Oviedo Oviedo ISLAS BALEARES BALEARES Palma de Mallorca Palma de Mallorca CANARIAS LAS PALMAS Las Palmas de Gran Canaria Capitalidad compartida SANTA CRUZ DE TENERIFE Santa Cruz de Tenerife CANTABRIA CANTABRIA Santander Santander CASTILLA-LA MANCHA ALBACETE Albacete Toledo CIUDAD REAL Ciudad Real CUENCA Cuenca GUADALAJARA Guadalajara TOLEDO Toledo CASTILLA Y LEÓN ÁVILA Ávila No declarada. Sede de las administraciones: Valladolid BURGOS Burgos LEÓN León PALENCIA Palencia SALAMANCA Salamanca SEGOVIA Segovia SORIA Soria VALLADOLID Valladolid ZAMORA Zamora 43 Comunidades autónomas Provincias Capital de provincia Capital de la comunidad autónoma CATALUÑA BARCELONA Barcelona Barcelona GERONA Gerona LÉRIDA Lérida TARRAGONA Tarragona COMUNIDAD VALENCIANA ALICANTE Alicante Valencia CASTELLÓN Castellón de la Plana VALENCIA Valencia EXTREMADURA BADAJOZ Badajoz Mérida CÁCERES Cáceres GALICIA LA CORUÑA La Coruña Santiago de Compostela LUGO Lugo ORENSE Orense PONTEVEDRA Pontevedra LA RIOJA LA RIOJA Logroño Logroño COMUNIDAD DE MADRID MADRID Madrid Madrid REGIÓN DE MURCIA MURCIA Murcia Murcia COMUNIDAD FORAL DE NAVARRA NAVARRA Pamplona Pamplona PAÍS VASCO ÁLAVA Vitoria No declarada. Sede de lasadministraciones: Vitoria GUIPÚZCOA San Sebastián VIZCAYA Bilbao CIUDADES AUTÓNOMAS CEUTA MELILLA Tabla 4: Comunidades autónomas, provincias, capitales de provincia y capitales de comunidades autónomas 44 45 PREGUNTAS PARA LA TAREA 3 3001 ¿Dónde están Cáceres y Badajoz? a) En el Principado de Asturias. b) En Andalucía.",
+      "En Extremadura."
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2001"
+  },
+  {
+    "question": "Los españoles que obtienen la nacionalidad por residencia deben esperar tres años para poder votar en las elecciones.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2002"
+  },
+  {
+    "question": "Los jóvenes tienen derecho a participar libremente en el desarrollo político del país.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2003"
+  },
+  {
+    "question": "El funcionamiento de los partidos políticos tiene que ser democrático.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2004"
+  },
+  {
+    "question": "Se puede obligar a alguien a decir cuáles son sus ideas políticas o religiosas.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2005"
+  },
+  {
+    "question": "Se puede limitar a una persona el derecho a entrar y salir libremente de España por motivos ideológicos.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2006"
+  },
+  {
+    "question": "La Educación Primaria (de 6 a 12 años) es gratuita y obligatoria.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2007"
+  },
+  {
+    "question": "La Constitución garantiza el derecho de los españoles a una vivienda digna.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2008"
+  },
+  {
+    "question": "En España la policía puede entrar en cualquier casa sin resolución judicial en cualquier momento.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2009"
+  },
+  {
+    "question": "Se garantiza el secreto de las comunicaciones de los españoles, salvo resolución judicial. a) Verdadero. b) Falso. 36 2011 Todos los españoles, ya sean mayores o menores de edad, tienen derecho a votar en las elecciones.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2010"
+  },
+  {
+    "question": "José Luis Rodríguez Zapatero Partido Socialista Obrero Español (PSOE)",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2011"
+  },
+  {
+    "question": "Los profesores pueden enseñar con libertad, dentro de los límites de la Constitución.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2012"
+  },
+  {
+    "question": "La Constitución reconoce únicamente los derechos fundamentales de los españoles.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2013"
+  },
+  {
+    "question": "En España existe la pena de muerte.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2014"
+  },
+  {
+    "question": "La ley limita el acceso de terceras personas a datos de carácter personal.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2015"
+  },
+  {
+    "question": "La libertad de prensa está limitada por el respeto al honor de las personas.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2016"
+  },
+  {
+    "question": "En España las causas de separación y divorcio están reguladas por la ley. a) Verdadero. b) Falso 2018 Todos los españoles pagan la misma cantidad de impuestos.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2017"
+  },
+  {
+    "question": "Mariano Rajoy Partido Popular (PP)",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2018"
+  },
+  {
+    "question": "En España los hombres y las mujeres tienen los mismos derechos.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2019"
+  },
+  {
+    "question": "La enseñanza obligatoria consta de dos etapas: Educación Primaria y Educación Secundaria Obligatoria. a) Verdadero b) Falso 2021 En España hay una religión oficial.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2020"
+  },
+  {
+    "question": "En España hay una religión oficial.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2021"
+  },
+  {
+    "question": "La atención sanitaria pública es gratuita. a) Verdadero. b) Falso. 37 2023 Los poderes públicos deben promover la educación física y el deporte.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2022"
+  },
+  {
+    "question": "(© Casa de S.M. el Rey)",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2023"
+  },
+  {
+    "question": "En España está reconocido el derecho de asociación.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2024"
+  },
+  {
+    "question": "En caso de huelga, es obligatorio por ley mantener unos servicios mínimos.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2025"
+  },
+  {
+    "question": "Los trabajadores tienen derecho a hacer huelga.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2026"
+  },
+  {
+    "question": "La libertad ideológica está garantizada solo en parte del territorio nacional.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2027"
+  },
+  {
+    "question": "Todos los ciudadanos tienen acceso al sistema de Seguridad Social público, excepto si están desempleados.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2028"
+  },
+  {
+    "question": "Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2029"
+  },
+  {
+    "question": "Todo el mundo tiene derecho a expresar su opinión. a) Verdadero b) Falso 2031 La edad mínima para casarse en España es de 12 años.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2030"
+  },
+  {
+    "question": "La edad mínima para casarse en España es de 12 años.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2031"
+  },
+  {
+    "question": "La Ley prohíbe la discriminación por cualquier circunstancia personal o social.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2032"
+  },
+  {
+    "question": "Los poderes públicos garantizan la defensa de los consumidores.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2033"
+  },
+  {
+    "question": "Los jueces administran la justicia en España según las indicaciones del Gobierno. a) Verdadero. b) Falso. 38 2035 Los españoles deben ayudar en los casos de catástrofe o calamidad pública.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 1,
+    "task_id": "2034"
+  },
+  {
+    "question": "Los españoles deben ayudar en los casos de catástrofe o calamidad pública.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2035"
+  },
+  {
+    "question": "En España los ciudadanos pueden elegir en qué ciudad quieren vivir.",
+    "answers": [
+      "Verdadero",
+      "Falso"
+    ],
+    "task": "tarea_2",
+    "correct_answer": 0,
+    "task_id": "2036"
+  },
+  {
+    "question": "¿Dónde están Cáceres y Badajoz?",
+    "answers": [
+      "En el Principado de Asturias.",
+      "En Andalucía.",
+      "En Extremadura."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3001"
+  },
+  {
+    "question": "¿Cuál es la capital del Principado de Asturias?",
+    "answers": [
+      "Avilés.",
+      "Gijón.",
+      "Oviedo."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3002"
+  },
+  {
+    "question": "¿Dónde están las islas Baleares?",
+    "answers": [
+      "En el mar Cantábrico.",
+      "En el mar Mediterráneo.",
+      "En el océano Atlántico."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3003"
+  },
+  {
+    "question": "¿Cómo se llama la extensa llanura situada en el centro de la península ibérica?",
+    "answers": [
+      "Marisma.",
+      "Cordillera.",
+      "Meseta."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3004"
+  },
+  {
+    "question": "¿Cuál es la montaña más alta de la península ibérica?",
+    "answers": [
+      "El Mulhacén.",
+      "El Aneto.",
+      "El Teide."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3005"
+  },
+  {
+    "question": "¿En qué comunidad autónoma están Guadalajara y Cuenca?",
+    "answers": [
+      "En Castilla y León.",
+      "En Castilla-La Mancha.",
+      "En Cantabria."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3006"
+  },
+  {
+    "question": "¿De qué comunidad autónoma es capital Mérida?",
+    "answers": [
+      "De Valencia.",
+      "De Cataluña.",
+      "De Extremadura."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3007"
+  },
+  {
+    "question": "¿Dónde está Almería?",
+    "answers": [
+      "En Andalucía.",
+      "En Canarias.",
+      "En Aragón."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3008"
+  },
+  {
+    "question": "La capital de la Comunidad Autónoma de Galicia es…",
+    "answers": [
+      "A Coruña.",
+      "Vigo.",
+      "Santiago de Compostela."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3009"
+  },
+  {
+    "question": "¿Cuál de estos climas es propio de España?",
+    "answers": [
+      "Polar.",
+      "Mediterráneo.",
+      "Tropical."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3010"
+  },
+  {
+    "question": "¿Dónde está el monte Aneto?",
+    "answers": [
+      "En los Pirineos.",
+      "En el Sistema Central.",
+      "En Sierra Nevada. 46"
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3011"
+  },
+  {
+    "question": "Tarragona está en…",
+    "answers": [
+      "Cataluña.",
+      "Galicia.",
+      "Navarra."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3012"
+  },
+  {
+    "question": "España se divide en…",
+    "answers": [
+      "departamentos y regiones.",
+      "comunidades y ciudades autónomas.",
+      "regiones autónomas y distritos."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3013"
+  },
+  {
+    "question": "¿Cuál de estas comunidades autónomas tiene solo una provincia?",
+    "answers": [
+      "La Rioja.",
+      "Aragón.",
+      "Galicia."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3014"
+  },
+  {
+    "question": "En el norte de África están Ceuta y…",
+    "answers": [
+      "Almería.",
+      "Melilla.",
+      "Cádiz."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3015"
+  },
+  {
+    "question": "¿Cuál de estas comunidades autónomas tiene más de una provincia?",
+    "answers": [
+      "Asturias.",
+      "Madrid.",
+      "Castilla-La Mancha."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3016"
+  },
+  {
+    "question": "¿Cuál de estos ríos desemboca en el océano Atlántico?",
+    "answers": [
+      "El Guadalquivir.",
+      "El Manzanares.",
+      "El Júcar."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3017"
+  },
+  {
+    "question": "¿Cuál de estas provincias forma parte de la Comunidad de Castilla-León?",
+    "answers": [
+      "Burgos.",
+      "Huesca.",
+      "Guadalajara."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3018"
+  },
+  {
+    "question": "Las temperaturas suaves con abundantes lluvias son propias del clima…",
+    "answers": [
+      "continental.",
+      "oceánico.",
+      "subtropical."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3019"
+  },
+  {
+    "question": "Canarias tiene un clima…",
+    "answers": [
+      "mediterráneo.",
+      "oceánico.",
+      "subtropical."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3020"
+  },
+  {
+    "question": "El principal río que desemboca en el mar Mediterráneo es el…",
+    "answers": [
+      "Ebro.",
+      "Duero.",
+      "Tajo."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3021"
+  },
+  {
+    "question": "España está entre los países de Europa más…",
+    "answers": [
+      "lluviosos.",
+      "montañosos.",
+      "fríos."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 1,
+    "task_id": "3022"
+  },
+  {
+    "question": "¿En qué provincia está el parque nacional de Monfragüe?",
+    "answers": [
+      "En Cáceres.",
+      "En Murcia.",
+      "En Ciudad Real. 47"
+    ],
+    "task": "tarea_3",
+    "correct_answer": 0,
+    "task_id": "3023"
+  },
+  {
+    "question": "Los Picos de Europa están en…",
+    "answers": [
+      "Andalucía. c) Cataluña. c) Asturias. 48 49 TAREA 4. CULTURA E HISTORIA DE ESPAÑA LITERATURA, MÚSICA Y ARTES ESCÉNICAS España posee una larga tradición literaria. Muchos autores y obras son reconocidos internacionalmente. Uno de los más famosos es Miguel de Cervantes Saavedra (1547-1616), nacido en Alcalá de Henares (Madrid). Su obra, el Quijote, es considerada la primera novela moderna y sus personajes principales, don Quijote y Sancho Panza, son conocidos en todo el mundo. Otra obra famosa es el Cantar de Mio Cid , escrita en el siglo XIII, que inmortalizó a Rodrigo Díaz de Vivar, caballero castellano que logró conquistar el Levante de la península ibérica a finales del siglo XI. Un personaje popular de la tradición literaria española, mito literario universal, es don Juan, que aparece por primera vez en la obra de Tirso de Molina El burlador de Sevilla y convidado de piedra, en 1630. Fig. 11: Don Quijote y Sancho Panza Por otro lado, los dos momentos más representativos de la literatura española y sus autores y obras más destacadas son: • Siglos de Oro de la literatura española (siglos XVI y XVII): teatro, Lope de Vega (Fuenteovejuna) y Calderón de la Barca (La vida es sueño) ; novela picaresca (el Lazarillo de Tormes ); literatura religiosa, Santa Teresa de Jesús y San Juan de la Cruz; poesía, Garcilaso de la Vega, Góngora y Quevedo. • Siglo XX, la Edad de Plata: La Generación del 98, en donde destacan Antonio Machado, Valle-Inclán y Miguel de Unamuno; la Generación de 1914, con José Ortega y Gasset y Clara Campoamor; la Generación del 27, cuyo máximo exponente es Federico García Lorca, con la obra La casa de Bernarda Alba, pero también Rafael Alberti, M.ª Teresa León, María Zambrano, Miguel Hernández, Rosa Chacel y Vicente Aleixandre; y en los años de la posguerra Camilo José Cela, con La colmena ; Carmen Laforet con Nada; Ana María Matute con Los hijos muertos y Miguel Delibes con El camino . También podemos citar a autores que escriben en las otras lenguas de España: Rosalía de Castro con 50 Follas Novas, Bernardo Atxaga con Obabakoak y Mercè Rodoreda con La plaça del Diamant. La música española tiene una larga tradición. Entre sus representantes más destacados podemos citar: • Compositores: Manuel de Falla con El amor brujo , junto a Joaquín Rodrigo, que compuso el Concierto de Aranjuez . • Cantantes líricos: Montserrat Caballé y Ainhoa Arteta, sopranos; Alfredo Kraus y Josep Carreras, tenores españoles de fama internacional. • Canción moderna: Joan Manuel Serrat y Alejandro Sanz, cantautores; Rosalía, Luz Casal y Enrique Iglesias, son cantantes con gran proyección en EE. UU. e Hispanoamérica. • Flamenco: Lola Flores «La Faraona», cantaora; Camarón de la Isla, cantaor; Paco de Lucía, compositor y guitarrista; Carmen Amaya o Sara Baras, bailaoras, son fundamentales en la historia del flamenco. España es uno de los países hispanohablantes que más premios Grammy latinos ha recibido en los últimos quince años. En el cine español hay que nombrar a Luis Buñuel como uno de los padres del séptimo arte. Pero también a otros grandes directores como Luis García Berlanga, Fernando Trueba, Alejando Amenábar, Pedro Almodóvar, Isabel Coixet, Fernando León de Aranoa, Juan Antonio Bayona o Jaume Collet Serra, que hacen de nuestro cine uno de los más reconocidos internacionalmente. Actores y actrices de fama internacional son: Javier Bardem, Penélope Cruz (ambos ganadores de un Óscar), Antonio Banderas, Inma Cuesta, Miguel Ángel Silvestre, Mario Casas, Ana de Armas, Luis Tosar, Maribel Verdú, Carmen Maura, Victoria Abril, Úrsula Corberó, Clara Lago o Karra Elejalde. España gestiona teatros, auditorios y compañías nacionales artísticas a través de su Ministerio de Cultura: • el Ballet Nacional de España, que ofrece diversos estilos de baile; • la Orquesta y Coro nacionales: música sinfónica y coral que promociona la música clásica desde diversas perspectivas; • la Compañía Nacional de Teatro Clásico, cuya principal misión es recuperar, preservar, producir y difundir el patrimonio teatral anterior al siglo XX. 51 ARQUITECTURA Y ARTES PLÁSTICAS Fig. 12: Las meninas , de Velázquez España tiene un rico patrimonio. La Unesco ha reconocido 49 bienes españoles como Patrimonio de la Humanidad (bienes culturales, naturales y mixtos), lo que sitúa a España como el tercer país con más bienes reconocidos, por detrás de Italia (58) y China (56). En 1984 España incorporó los primeros cinco bienes a la lista de Patrimonio de la Humanidad: • la Alhambra y el Generalife (Granada, siglos X-XIV). • la Catedral de Burgos (siglo XIII). • la Mezquita de Córdoba (siglos VIII-XIII). • el Monasterio y Sitio de El Escorial (Madrid, siglo XVI). • el Parque Güell, el Palacio Güell y la Casa Milà (Barcelona, siglo XX). Posteriormente, se han sumado la Cueva de Altamira y el arte rupestre paleolítico del norte de España (Asturias, Cantabria y País Vasco); el Acueducto de Segovia y el conjunto arqueológico de Mérida (de época romana); la fachada de la Natividad y la cripta de la Sagrada Familia de Gaudí (Barcelona, siglos XIX-XXI), entre otros. Otro de los bienes españoles declarado Patrimonio de la Humanidad es el Camino de Santiago, una de las rutas de peregrinación artístico-religiosas europeas más importantes. Patrimonio Nacional es el organismo público responsable del cuidado y mantenimiento de los bienes artísticos que actualmente pertenecen al Estado español. Es un organismo que pone a disposición de los ciudadanos el patrimonio histórico-artístico con fines culturales, científicos y docentes. 52 Algunos pintores, obras y museos españoles de fama internacional son: Artista Obra Museo donde se puede encontrar parte de su obra en España Francisco de Zurbarán (1598-1664) San Francisco en oración Museo del Prado (Madrid) Diego Rodríguez de Silva y Velázquez (1599-1660) Las meninas Museo del Prado (Madrid) Francisco de Goya (1746-1828) Fusilamientos del 3 de mayo y La maja desnuda Museo del Prado (Madrid) Joaquín Sorolla (1863-1923) Paseo a orillas del mar Casa Museo Sorolla (Madrid) Pablo Picasso (1881-1973) Guernica Museo Reina Sofía (Madrid) Joan Miró (1893-1983) Logotipo de Turespaña, Mural del Palacio de Congresos de Madrid Maruja Mallo (1900-1995) La verbena Museo Reina Sofía (Madrid) Salvador Dalí (1904-1989) Muchacha en la ventana Galatea de las esferas Museo Reina Sofía (Madrid) Teatro-Museo Dalí (Girona) Antonio López (1936) Madrid desde Capitán Haya Museo Reina Sofía (Madrid) Tabla 5: Pintores, obras y museos españoles de proyección internacional Además de los museos nacionales del Prado y Reina Sofía, hay otros muy conocidos internacionalmente: el Museo Picasso, en Barcelona; el Museo Thyssen-Bornemisza, en Madrid y el Museo Guggenheim de Bilbao. 53 CIENCIA Y TECNOLOGÍA España tuvo una época de esplendor de la ciencia en la Edad Media, con los trabajos de la Escuela de Traductores de Toledo, los realizados en Córdoba, o los adelantos en especialidades como la navegación, astronomía y astrología, en la época imperial. En el primer tercio del siglo XX, destacaron Ramón y Cajal, Severo Ochoa y Gregorio Marañón, y en el último tercio del siglo XX y principios del siglo XXI, destacan en medicina Valentín Fuster o la familia Barraquer; en psiquiatría, Luis Rojas Marcos; en bioquímica y biología molecular, Margarita Salas, etc. El Consejo Superior de Investigaciones Científicas (CSIC), la mayor institución pública dedicada a la investigación en España y la cuarta de Europa, tiene como objetivo principal desarrollar y promover investigaciones para conseguir el progreso científico y tecnológico. En España se han creado numerosos parques tecnológicos y observatorios astronómicos, entre los que destaca la Estación de Seguimiento de Satélites de Villafranca del Castillo, ahora centro de la Agencia Espacial Europea (ESA). ACONTECIMIENTOS RELEVANTES EN LA HISTORIA DE ESPAÑA (1252-2019) Algunos de los acontecimientos de la historia de España más conocidos internacionalmente desde el s. XIII hasta la actualidad son: Fecha Denominación Descripción 1252 1252 Alfonso X convierte Toledo en referente de la cultura medieval. Toledo es conocida como la ciudad de las tres culturas: la judía, la musulmana y la cristiana. 1492 1492 Cristóbal Colón descubre América. Los Reyes Católicos conquistan Granada. Se publica la primera gramática de la lengua castellana. 1519 1519 Magallanes y Juan Sebastián Elcano inician la primera vuelta al mundo. Siglos XVI-XVII Siglo de Oro del Imperio español Fue el primer imperio con grandes extensiones de territorio en todos los continentes, que incluía los territorios de América, del Pacífico, de Italia y de la Europa central. Los reinados más importantes de este período son los de Carlos I y Felipe II. A Carlos I se le considera el primer rey de España, porque con él se unificaron los reinos españoles. Felipe II gobernó la mayor extensión de territorios del mundo por la unificación de los reinos de España y Portugal y sus respectivos territorios en América y Asia. 54 Fecha Denominación Descripción 1705-1715 Guerra de Sucesión Al morir sin heredero Carlos II, último rey de la dinastía de los Austrias, se inicia una guerra entre la casa Austria y los Borbones. Vencieron los últimos y Felipe de Anjou fue coronado como Felipe V. 1808-1814 Guerra de Independencia Guerra de los españoles contra la invasión francesa y el rey francés José Bonaparte, hermano de Napoleón. Cuando termina la guerra, Fernando VII vuelve a ser rey de España. 1895-1898 Guerra de Cuba o Desastre del 98 España y Estados Unidos se enfrentaron en 1898 en la Guerra de Cuba (o «Desastre del 98»). España perdió la guerra y sus últimas posesiones coloniales:la isla de Cuba, que se proclamó república independiente, y Puerto Rico, Filipinas y Guam, que pasaron a ser dependencias coloniales de Estados Unidos. 1936-1939 Guerra Civil La Guerra Civil española fue un conflicto bélico entre los partidarios de la II República, legalmente constituida en 1931 (los republicanos), y los sublevados, liderados por gran parte del alto mandomilitar (los nacionales). 1939-1975 Franquismo Francisco Franco gana la Guerra Civil y se convierte en jefe del Estado español hasta su muerte. España está aislada hasta el inicio de la Guerra Fría por el rechazo internacional a la dictadura de Franco, caracterizada por el nacionalismo español excluyente, el catolicismo y el anticomunismo. 1975-1982 Transición española La Transición española es el periodo comprendido entre la muerte de Francisco Franco (20 de noviembre de 1975) y las elecciones democráticas de octubre de 1982. El periodo de transición fue liderado por Adolfo Suárez y el partido Unión de Centro Democrático. Las elecciones de 1982 fueron ganadas por el Partido Socialista Obrero Español (PSOE). Las primeras elecciones generales de la democracia se celebraron en junio de 1977 1978 Referéndum sobre la Constitución El día 6 de diciembre de 1978 se celebra el primer referéndum de la democracia española, para votar la Constitución. Hubo una participación superior al 66% y fue ratificada por cerca del 88% de los votantes. 55 Fecha Denominación Descripción 1986 Entrada de España en la CEE El Tratado de Adhesión de España a la Comunidad Económica Europea (CEE), firmado en junio de 1985, entra en vigor el 1 de enero de 1986. España comienza una nueva etapa de transformación económica e institucional, por la integración europea: miembro del espacio Schengen (países que han eliminado sus fronteras interiores) y de la zona del euro (conjunto de países que tienen el euro como moneda oficial), está presente en las instituciones europeas como Consejo, Comisión Europea, Parlamento Europeo (en el que tiene 59 representantes), Banco Central Europeo, etc. 1992 Celebraciones En el año 1992 se celebran los Juegos Olímpicos de Barcelona, el Quinto Centenario de la llegada de Colón a América y la Exposición Universal de Sevilla; Madrid es la Capital Europea de la Cultura y se inaugura el tren de Alta Velocidad Española (AVE). 2014 Monarquía Felipe VI se convierte en rey de España, sucediendo a su padre, Juan Carlos I. Tabla 6: Acontecimientos relevantes en la historia de España 56 FIESTAS, CELEBRACIONES Y FOLCLORE Algunas de las fiestas más conocidas internacionalmente, su fecha y sus símbolos son: Fiestas Fecha y localidad Símbolos relacionados con las fiestas Navidades Se celebran entre el 24 de diciembre y el 6 de enero. En toda España. Símbolos u objetos: belén o nacimiento y árbol de Navidad. Tradiciones: cenar en familia la noche del 24 de diciembre, conocida como Nochebuena; tomar las uvas la noche del 31 de diciembre, conocida como Nochevieja; colocar los zapatos el 5 de enero (víspera del día de Reyes) para recibir regalos; cabalgata de los Reyes Magos. Alimentos y bebidas: turrón, mazapán, polvorones, cava. Música: villancicos. Carnavales Se celebran en febrero en toda España, pero los más conocidos son los de Tenerife y Cádiz. Símbolos y trajes: disfraces o vestidos de concurso, máscaras. Tradiciones: desfiles, concursos, bailes. Música: chirigotas en Cádiz. Fallas de Valencia Se celebran en el mes de marzo, por la fiesta de San José (19 de marzo). Símbolos u objetos: Fallas, ninots. Tradiciones: quemar las fallas, ofrenda floral a la Virgen. Semana Santa Se suele celebrar en marzo o abril. En toda España, pero las más famosas son en Andalucía. Símbolos u objetos: pasos, traje de nazareno. Tradiciones: procesiones religiosas. Música: marcha procesional. Feria de Abril de Sevilla Se celebra en Sevilla, normalmente en el mes de abril. Objetos: guitarra, castañuelas, traje de sevillana. Tradiciones: bailes en las casetas, desfile decaballos y carros con los trajes tradicionales. Música y baile: sevillanas. Sant Jordi Se celebra el 23 de abril en Cataluña y Baleares. Objetos: rosas y libros. Tradiciones: regalar una rosa y un libro. 57 Fiestas Fecha y localidad Símbolos relacionados con las fiestas Objetos: carros, guitarra, castañuelas, traje rociero. Romería del Rocío Se celebra 50 días después de la Pascua, en torno al mes de mayo. Almonte (Huelva). Tradiciones: hacer la peregrinación hasta la ermita del Rocío en carros con caballos (también se puede hacer andando). En los descansos y por la noche, se bailan sevillanas. Música y baile: sevillanas y salve. Noche de San Juan Se celebra la noche del 23 de junio en toda España. Tradiciones: encender hogueras con objetos antiguos (madera, papel…) y saltar por encima para demostrar valor y habilidad, y recibir lo nuevo que está por venir. Sanfermines Se celebran en julio, con motivo de las fiestas de San Fermín, en Pamplona (Comunidad de Navarra). Objetos y traje: pañuelo y fajín rojo, traje blanco. Tradiciones: correr los encierros delante de los toros que van a participar por la tarde en las corridas, bailes populares. Música y baile: jota navarra. La Tomatina Se celebra el último miércoles del mes de agosto en la localidad de Buñol (Comunidad Valenciana). Tradiciones: durante la semana de fiestas de la localidad, entre otras tradiciones, hay un día en el que los participantes (en su mayoría jóvenes) se tiran tomates los unos a los otros. Tabla 7: Fiestas españolas más conocidas Fig. 13: Mascletá. Fallas de Valencia Fig. 13 bis: Desfile de gigantes. Fiestas de la Mercè. Barcelona. 58 Cada comunidad autónoma y cada municipio tiene sus fiestas particulares. Todas las regiones y zonas de España tienen un rico folclore, que es la huella de las culturas de su historia (celta, romana, cristiana, musulmana…). En el folclore popular cabe destacar: • la jota, baile típico que está presente en casi toda España; • el flamenco , especialmente en Andalucía, declarado Patrimonio Cultural Inmaterial de la Humanidad en 2010; • la sardana (Cataluña); • la muñeira (Galicia); • las sevillanas (Andalucía). Los instrumentos musicales típicos del folclore español son: la guitarra, las castañuelas, la gaita, la dulzaina, el acordeón, el txistu y el tamboril. ACONTECIMIENTOS CULTURALES Y DEPORTIVOS En España se celebran todos los años acontecimientos culturales de gran relevancia, como: • Los Premios Princesa de Asturias , concedidos anualmente por la Fundación Princesa de Asturias para promover valores científicos, culturales y humanísticos que son patrimonio universal. • El Premio Cervantes , equivalente al Premio Nobel de las letras hispánicas, premia la obra literaria completa en español de un escritor español o hispanoamericano. Se concedió por primera vez a Jorge Guillén en 1976. • El Premio Nacional de las Letras Españolas , concedido anualmente por el Ministerio de Cultura para premiar el conjunto de la obra literaria de un escritor español, en cualquiera de las lenguas de España. • Ferias del Libro : se celebran en toda España, en torno al Día del Libro, el 23 de abril, fecha en que murieron Cervantes, Shakespeare y el Inca Garcilaso de la Vega. Su objetivo es la difusión y promoción de los libros y la lectura en España. El sector editorial en España es la principal industria cultural. • Los Premios Goya , concedidos por la Academia de las Artes y las Ciencias Cinematográficas de España, premian a los mejores profesionales de cada una de las especialidades técnicas y creativas del cine. • Festivales de cine : los más conocidos son los de San Sebastián, Sitges, Málaga y Valladolid. • Festivales de teatro clásico : normalmente se celebran en verano. Los teatros clásicos más famosos son el Corral de las Comedias de Almagro, el Teatro Romano de Mérida y el Teatre Grec de Barcelona. • Feria Internacional de Arte Contemporáneo (ARCO) , se celebra anualmente en Madrid desde 1981. 59 Hasta la fecha, los españoles que han recibido un Premio Nobel son: Año Nombre Especialidad 1904 José Echegaray Literatura 1906 Santiago Ramón y Cajal Fisiología y Medicina 1922 Jacinto Benavente Literatura 1956 Juan Ramón Jiménez Literatura 1959 Severo Ochoa Fisiología y Medicina 1977 Vicente Aleixandre Literatura 1989 Camilo José Cela Literatura 2010 Mario Vargas Llosa Literatura Tabla 8: Españoles galardonados con el premio Nóbel DEPORTES En España tienen mucha importancia los campeonatos de Liga y de Copa del Rey de fútbol y baloncesto; la Vuelta ciclista a España, así como la participación de los deportistas españoles en campeonatos europeos, mundiales o Juegos Olímpicos. Algunos de los deportistas más conocidos internacionalmente son: Rafael Nadal y Carlos Alcaraz (tenis); Pau y Marc Gasol (baloncesto); Fernando Alonso (automovilismo); Miguel Induráin (ciclismo); las selecciones nacionales masculinas y femeninas de fútbol y baloncesto; Edurne Pasaban (montañismo); Mireia Belmonte y Gemma Mengual (natación); Carolina Marín (bádminton); Lydia Valentín (halterofilia). El deporte paraolímpico en España comenzó a desarrollarse a mediados del siglo XX, cuando empezaron a organizarse competiciones para personas con discapacidad. Nuestro país ha apostado a lo largo de los últimos años por dar visibilidad y apoyar económicamente a deportistas con discapacidad. Gracias a su esfuerzo y dedicación, España ha logrado buenos resultados en los Juegos Paralímpicos. En los Juegos Paralímpicos de París 2024, varios deportistas españoles destacaron por sus actuaciones excepcionales. Teresa Perales, leyenda de la natación, sumó otra medalla a las 28 medallas olímpicas ganadas en a lo largo de su carrera. Destacan en ciclismo, Ricardo Ten brilló con un oro en la contrarreloj individual y Sergio Garrote también logró el oro en la prueba H2. En triatlón, Susana Rodríguez revalidó su título con una increíble victoria en la categoría PTVI. Además, Daniel Molina fue campeón en la categoría PTS3 de triatlón, consolidando su lugar entre los grandes. 60 61 PREGUNTAS PARA LA TAREA 4 4001 Los personajes principales de la novela el Quijote son don Quijote y… a) Don Juan.",
+      "Sancho Panza.",
+      "Doña Inés."
+    ],
+    "task": "tarea_3",
+    "correct_answer": 2,
+    "task_id": "3024"
+  },
+  {
+    "question": "Los personajes principales de la novela el Quijote son don Quijote y…",
+    "answers": [
+      "Don Juan.",
+      "Sancho Panza.",
+      "Doña Inés."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4001"
+  },
+  {
+    "question": "¿Cuál de las siguientes mujeres es una científica española reconocida mundialmente?",
+    "answers": [
+      "Montserrat Caballé.",
+      "Ana María Matute.",
+      "Margarita Salas."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4002"
+  },
+  {
+    "question": "¿Cómo se llama, en literatura, a los siglos XVI y XVII?",
+    "answers": [
+      "Siglos de Oro.",
+      "Siglos de Plata.",
+      "Siglos de Platino."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4003"
+  },
+  {
+    "question": "María Zambrano, María Teresa León y Rosa Chacel son…",
+    "answers": [
+      "pintoras.",
+      "escritoras.",
+      "deportistas."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4004"
+  },
+  {
+    "question": "¿Qué músico compuso El amor brujo ?",
+    "answers": [
+      "Manuel de Falla.",
+      "Isaac Albéniz.",
+      "Joaquín Rodrigo."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4005"
+  },
+  {
+    "question": "¿Qué dulce es típico de las navidades?",
+    "answers": [
+      "El ﬂan.",
+      "El turrón.",
+      "c) El huevo de Pascua."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4006"
+  },
+  {
+    "question": "¿Qué instrumento musical es típico del folclore español?",
+    "answers": [
+      "El piano.",
+      "El violín.",
+      "La guitarra."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4007"
+  },
+  {
+    "question": "Isabel Coixet es una…",
+    "answers": [
+      "cantante pop.",
+      "bailarina clásica.",
+      "directora de cine."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4008"
+  },
+  {
+    "question": "Una de las cantantes españolas más famosas actualmente es...",
+    "answers": [
+      "Rosalía.",
+      "Marisol",
+      "Lola Flores."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4009"
+  },
+  {
+    "question": "¿En qué ciudad de España hay una mezquita que es Patrimonio de la Humanidad?",
+    "answers": [
+      "Santiago de Compostela.",
+      "Madrid.",
+      "Córdoba. 62"
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4010"
+  },
+  {
+    "question": "¿En qué ciudad de España se encuentra La Alhambra, que es Patrimonio de la Humanidad?",
+    "answers": [
+      "En Sevilla.",
+      "En Córdoba.",
+      "En Granada."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4011"
+  },
+  {
+    "question": "¿Dónde está La Sagrada Familia, el monumento de Gaudí?",
+    "answers": [
+      "En Barcelona.",
+      "En Granada.",
+      "En Madrid."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4012"
+  },
+  {
+    "question": "Pablo Picasso fue un famoso…",
+    "answers": [
+      "pintor.",
+      "músico.",
+      "escritor."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4013"
+  },
+  {
+    "question": "¿Cómo se llama la mayor institución pública dedicada a la investigación en España?",
+    "answers": [
+      "Real Academia Española (RAE).",
+      "Consejo Superior de investigaciones Científicas (CSIC).",
+      "La sociedad General de Autores (SGAE)."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4014"
+  },
+  {
+    "question": "Paco de Lucía fue un famoso….",
+    "answers": [
+      "científico.",
+      "guitarrista.",
+      "pintor."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4015"
+  },
+  {
+    "question": "¿Cuál de estas manifestaciones folclóricas es patrimonio cultural inmaterial de la humanidad?",
+    "answers": [
+      "El flamenco.",
+      "La jota.",
+      "La sardana."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4016"
+  },
+  {
+    "question": "¿Cuál es la moneda común en muchos países de la Unión Europea?",
+    "answers": [
+      "El dólar.",
+      "El peso.",
+      "El euro."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4017"
+  },
+  {
+    "question": "La fiesta de la Tomatina se celebra en…",
+    "answers": [
+      "Mérida.",
+      "Buñol.",
+      "Santiago de Compostela ."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4018"
+  },
+  {
+    "question": "La Feria del Libro se celebra en toda España, normalmente, en…",
+    "answers": [
+      "invierno.",
+      "primavera. C) verano. 4020 La Liga y la Copa del Rey son competiciones de… a) natación. b) atletismo.",
+      "fútbol."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4019"
+  },
+  {
+    "question": "La Liga y la Copa del Rey son competiciones de…",
+    "answers": [
+      "natación.",
+      "atletismo.",
+      "fútbol."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4020"
+  },
+  {
+    "question": "¿Quién ha recibido el premio Nobel de Literatura?",
+    "answers": [
+      "María Zambrano.",
+      "Pablo Picasso.",
+      "Vicente Aleixandre. 63"
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4021"
+  },
+  {
+    "question": "Las chirigotas de Cádiz son típicas de…",
+    "answers": [
+      "la Semana Santa.",
+      "los carnavales.",
+      "las verbenas de verano."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4022"
+  },
+  {
+    "question": "Teresa Perales y Daniel Molina son...",
+    "answers": [
+      "campeones paraolímpicos.",
+      "músicos famosos.",
+      "artistas de cine."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4023"
+  },
+  {
+    "question": "¿Qué toman los españoles la noche del 31 de diciembre para celebrar el cambio de año?",
+    "answers": [
+      "Lentejas.",
+      "Uvas.",
+      "Aceitunas."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4024"
+  },
+  {
+    "question": "¿Dónde está al Museo del Prado?",
+    "answers": [
+      "En Madrid.",
+      "En Bilbao.",
+      "En Sevilla."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4025"
+  },
+  {
+    "question": "¿Dónde se celebra un famoso festival de cine?",
+    "answers": [
+      "En San Sebastián.",
+      "En Cuenca.",
+      "En Vigo."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4026"
+  },
+  {
+    "question": "¿Qué escritora española escribe en otra lengua oficial de España?",
+    "answers": [
+      "Mercè Rodoreda.",
+      "Almudena Grandes.",
+      "Ana María Matute."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4027"
+  },
+  {
+    "question": "¿Qué tres culturas convivieron en la España medieval?",
+    "answers": [
+      "La cristiana, la judía y la musulmana.",
+      "La fenicia, la judía y la musulmana.",
+      "La griega, la cristiana y la judía."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4028"
+  },
+  {
+    "question": "El 6 de diciembre se celebra en España…",
+    "answers": [
+      "el Día de la Constitución.",
+      "la llegada de Colón a América.",
+      "el Día del Libro."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4029"
+  },
+  {
+    "question": "¿Dónde se encuentran la Cueva de Altamira que son Patrimonio Mundial de UNESCO?",
+    "answers": [
+      "En Cataluña.",
+      "En Aragón.",
+      "En Cantabria."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4030"
+  },
+  {
+    "question": "La Transición española a la democracia comienza en...",
+    "answers": [
+      "1936.",
+      "1975.",
+      "1982."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4031"
+  },
+  {
+    "question": "El Premio Cervantes se da a…",
+    "answers": [
+      "actores.",
+      "escritores.",
+      "pintores. 64"
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4032"
+  },
+  {
+    "question": "Los Premios Goya están relacionados con…",
+    "answers": [
+      "el cine.",
+      "la literatura.",
+      "la pintura."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4033"
+  },
+  {
+    "question": "¿Qué premios promueven en España valores científicos, culturales y humanísticos?",
+    "answers": [
+      "Los Premios Cervantes.",
+      "Los Premios Princesa de Asturias.",
+      "Los Premios Goya."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 1,
+    "task_id": "4034"
+  },
+  {
+    "question": "¿Cuándo fueron los Juegos Olímpicos de Barcelona?",
+    "answers": [
+      "En 1992.",
+      "En 1996.",
+      "En 2004."
+    ],
+    "task": "tarea_4",
+    "correct_answer": 0,
+    "task_id": "4035"
+  },
+  {
+    "question": "El escritor Miguel de Cervantes nació en…",
+    "answers": [
+      "La Mancha.",
+      "Madrid.",
+      "Alcalá de Henares. 65 TAREA 5. SOCIEDAD ESPAÑOLA IDENTIFICACIÓN PERSONAL Y TRÁMITES ADMINISTRATIVOS Fig. 14: Documento Nacional de Identidad Algunos documentos importantes en España son: En España, las personas tienen un nombre, que puede ser simple o compuesto, y dos apellidos. Generalmente, el primero es el primer apellido del padre y el segundo, el primer apellido de la madre, aunque los padres pueden decidir invertir el orden. • el documento nacional de identidad (DNI). Es obligatorio para los españoles mayores de 14 años. Tiene un número de identificación, con una letra al final, que sirve también como Número de Identificación Fiscal (NIF); • el pasaporte . Es el documento oficial español para poder viajar a países que no pertenecen a la Unión Europea o que no forman parte del espacio Schengen; • el libro de familia . Es el documento que se obtenía al tener (o adoptar) un hijo o al casarse, y en él aparecía la información de los padres y de sus hijos (o solo de la pareja); los trámites se realizaban en el Registro Civil; • el registro electrónico individual . Desde el 1 de mayo de 2021 convive con el libro de familia, al que sustituirá en el fututo. En él se anotará el nacimiento, la mayoría de edad o la adquisición de la nacionalidad de una persona; • el certificado de nacimiento . Es el documento que muestra cuándo y dónde nace alguien y se obtiene en el Registro Civil, organismo que depende del Ministerio de Justicia; • el número de la Seguridad Social , que recibe una persona cuando empieza a trabajar y a cotizar en la Seguridad Social. Este número se obtiene en la Tesorería General de la Seguridad Social; • el informe de vida laboral. Es un documento que muestra la cotización a la Seguridad Social y toda la trayectoria profesional (las empresas en las que se ha trabajado y las fechas y tipos de los contratos); 66 Fig. 15: Tarjeta sanitaria • la tarjeta sanitaria es la que identifica a una persona para ser atendida en la sanidad pública española. Se tramita en el centro de salud que corresponde al domicilio; • el carné o permiso de conducir sirve para conducir legalmente por España y lo pueden conseguir los mayores de 18 años. Para obtenerlo hay que aprobar un examen teórico y uno práctico, presentar un informe de aptitud psicofísica, el DNI o pasaporte en vigor y una fotografía. El organismo responsable de examinar y expedir el documento es la Dirección General de Tráfico (DGT); • el certiﬁcado de empadronamiento muestra el lugar de residencia. Para empadronarse, es necesario tener un domicilio y presentar un documento original de identidad (pasaporte, tarjeta de identificación de extranjero (TIE), etc.) en el ayuntamiento del municipio donde se vive. En los documentos oficiales, aparecen normalmente los siguientes datos: nombre y apellidos; número del DNI (en el caso de los extranjeros, NIE ―número de identidad de extranjero― o pasaporte); sexo (hombre-H o mujer-M); domicilio (dirección donde vive una persona, que incluye calle, número de portal, piso y puerta, código postal o CP, localidad y provincia); lugar y fecha de nacimiento. Los extranjeros que quieran residir en España deben realizar los trámites necesarios para obtener la tarjeta de residencia (TIE). Después de un tiempo de residencia (1, 2 o 10 años) se puede solicitar la nacionalidad española. Los trámites para la obtención de los distintos documentos se realizan en: • Registro Civil (pertenece al Ministerio de Justicia) . Inscripciones de nacimiento, matrimonio, divorcio… También los trámites para obtener la nacionalidad. • Comisaría de policía (Ministerio del Interior). DNI, TIE y pasaporte. De forma presencial. • Centro de salud (depende de la Consejería de Sanidad) . Tarjeta sanitaria. En España, los matrimonios pueden ser religiosos o civiles. En España se permite el matrimonio entre personas del mismo sexo. Los ciudadanos que no quieren casarse pueden registrarse como pareja de hecho. 67 Fig. 16: Familias Entre los diferentes tipos de familia que existen en España están las familias monoparentales (hijos al cuidado solo de la madre o del padre). Son familias numerosas las que tienen tres hijos o más. En España está permitido el divorcio. En caso de divorcio, está regulada la custodia de los hijos y la responsabilidad económica. Los poderes públicos deben asegurar la protección social, económica y jurídica de la familia, por lo que se reconocen los siguientes derechos: • permisos laborales por nacimiento (o adopción) y cuidado del menor, (16 semanas para la madre y 16 para el padre), el permiso de lactancia, o la reducción de la jornada de trabajo por tener a cargo hijos menores de 12 años. • ayudas ﬁscales a las familias: desgravación por hijos en la declaración de la renta y otras ayudas nacionales y autonómicas. 68 LA VIVIENDA En España hay diferentes tipos de vivienda, según el lugar (zona urbana o zona rural) y la situación económica de las personas. El tipo de residencia más habitual es el piso en un edificio de viviendas. Otra modalidad es la vivienda unifamiliar, chalé o casa adosada a otras viviendas, con servicios comunes. Según las últimas estadísticas, un 75 % de las viviendas en España son en propiedad (en el 30% de los casos, el propietario paga una hipoteca o préstamo bancario para comprarla). Por otro lado, el porcentaje de españoles que alquilan la vivienda se acerca al 25 %. Fig. 17: Bloque de viviendas También existen viviendas de protección oﬁcial que tienen un precio limitado y generalmente están subvencionadas por la Administración local o autonómica. En las comunidades de vecinos hay normas básicas de comportamiento social que se deben respetar, por ejemplo: pagar los gastos de la comunidad; no molestar a los demás vecinos con ruidos, sobre todo a partir de las 22 h; y cuidar los espacios comunes. ANIMALES DOMÉSTICOS En España muchas personas tienen animales en casa, en su mayoría perros, gatos y pájaros. Los animales se pueden adoptar o comprar, siendo preferible lo primero, ya que en España las protectoras y perreras están llenas de animales abandonados que necesitan un hogar. Estos animales deben registrarse obligatoriamente con un microchip electrónico –sobre todo los perros y los gatos–; vacunarse y llevarse a revisiones veterinarias periódicas. Se debe velar por su salud y prestarles los cuidados y atenciones necesarias para su correcto desarrollo físico y emocional, así como respetar la convivencia con el resto de ciudadanos, recogiendo sus excrementos de vías públicas y jardines y cumpliendo con las medidas de seguridad obligatorias en la calle (correa, bozal, etc.). 69 COMIDAS Y BEBIDAS La gastronomía de España es muy rica y variada. Las diversas regiones del país tienen sus propios platos típicos, resultado de la variedad cultural y climática. España cuenta con grandes cocineros, entre otros, los catalanes Ferran Adrià, Carme Ruscalleda y los hermanos Roca; los vascos Juan Mari Arzak, Pedro Subijana y Martin Berasategui, el asturiano José Andrés y los madrileños David Muñoz y Paco Roncero. Algunas de las comidas o bebidas españolas más conocidas internacionalmente son: la paella (arroz con verduras, azafrán, pollo, mariscos o carne) la tortilla de patatas o tortilla española (huevos, patata, cebolla), los churros (harina, agua y aceite), el gazpacho (tomate, pepino, pimiento, ajo, cebolla…) o la sangría (vino, frutas, refrescos…). Por otro lado, también son conocidos productos típicos como el aceite de oliva, diversas frutas y verduras, marisco y pescado, productos ibéricos de cerdo (jamón, lomo, chorizo); dulces como turrón, mazapanes, roscón de Reyes y torrijas; bebidas como vino, cava y sidra, etc. Las regiones más conocidas por sus denominaciones de origen (D. O.) son: La Rioja, Ribera del Duero y Jerez, para los vinos; Principado de Asturias, para la sidra; Cataluña, para los cavas; Andalucía y Castilla-La Mancha, para el aceite de oliva; Extremadura, Andalucía y Castilla y León, para los productos ibéricos. Fig. 18: Barra de bar con pinchos y tapas El aperitivo, que se toma en bares o restaurantes antes de comer, tiene una gran importancia en la gastronomía española. Se llama de forma diferente según tamaño, presentación u origen: tapa, banderilla, pincho, ración… Los horarios de las comidas en España varían según el día de la semana y las costumbres de cada familia, pero se podría decir que el desayuno es de 7:30 a 8:30, la comida de 14:00 a 15:30 y la cena de 21:00 a 22:00 h. En bares y restaurantes, una persona puede elegir una ración; un plato combinado (carne, pescado o huevos, con ensalada y patatas fritas); un menú del día de dos platos entre una selección fija, con pan, bebida y postre o café; o comer a la carta (el cliente elige cualquier plato de la carta). En cada caso el precio y la presentación varían. 70 CALENDARIO: DÍAS FESTIVOS Y HORARIOS Calendario escolar : comienza en septiembre y termina en el mes de junio. Cada comunidad autónoma decide las fechas de inicio y finalización de las clases. Calendario laboral : comienza en enero y termina en diciembre. En él aparecen las fiestas nacionales, autonómicas y locales. Las principales ﬁestas de España son: 1 de enero o Año Nuevo; 6 de enero o Día de Reyes; Viernes Santo; 1 de mayo o Día del Trabajo; 15 de agosto o Asunción de la Virgen; 12 de octubre o Fiesta Nacional de España; 1 de noviembre o Todos los Santos; 6 de diciembre o Díade la Constitución española; 8 de diciembre o la Inmaculada Concepción y 25 de diciembre o Navidad. Otras fiestas nacionales que las comunidades autónomas pueden sustituir por fiestas autonómicas son: 19 de marzo o San José; Jueves Santo; 25 de julio o Santiago Apóstol. Además, cada localidad debe determinar dos días adicionales de fiesta oficial. Los periodos vacacionales más comunes, que coinciden con las vacaciones escolares, son las Navidades (del 24 de diciembre al 6 de enero), la Semana Santa (en torno a finales del mes de marzo o principios de abril), y el verano (entre los meses de julio y agosto) El horario de España es GMT/UTC + 1 hora en invierno o + 2 horas en verano, excepto en Canarias, que es una hora menos. Los horarios comerciales pueden variar según los establecimientos; la mayoría de las tiendas tiene un horario aproximado de 10:00 a 20:00 horas, con una pausa larga para la comida, de lunes a viernes, y el sábado solo por la mañana. EDUCACIÓN La educación es un derecho de los ciudadanos; es obligatoria y gratuita (excepto libros y materiales educativos) desde los 6 hasta los 16 años, lo que se llama educación básica. Las leyes de educación recogen el derecho de los padres, madres y tutores legales a elegir el tipo de educación y el centro para sus hijos. La ley actual es la LOMLOE, conocida como «Ley Celáa» (2020) Fig. 19: Colegio de educación primaria También se regula la organización y funcionamiento de los centros educativos y se promueve la colaboración entre la familia y la escuela, para una mayor participación y responsabilidad de los alumnos y de los padres en el funcionamiento de los centros. 71 RESUMEN DEL SISTEMA EDUCATIVO ESPAÑOL Educación Infantil No es obligatoria Se divide en dos ciclos, el primero de 0 a 3 años y el segundo de 3 a 6 años, este último es gratuito. Educación Primaria Es obligatoria y gratuita. Es la primera etapa obligatoria, de los 6 a los 12 años. Educación Secundaria Obligatoria (ESO) Es la segunda y última etapa obligatoria y se cursa de los 12 a los 16 años. Bachillerato Dura dos cursos académicos, que se cursan entre los 16 y los 18 años. Este título permite el acceso a las distintas enseñanzas de educación superior. Formación profesional (FP) Formación Profesional Básica : se puede acceder a ella entre los 15 y los 17 años si se ha superado el primer ciclo de la Educación Secundaria Obligatoria (hasta el tercer curso). Ciclos formativos de Grado Medio : para poder acceder es necesario tener el título de Graduado en Educación Secundaria Obligatoria. Dura dos años y se obtiene el título de Técnico. Ciclos formativos de Grado Superior: son estudios de educación superior. Duran dos años y permiten obtener el título de Técnico Superior, además de poder acceder a estudios universitarios. Enseñanza universitaria Para acceder se requiere, además del título de Bachillerato, la superación de una prueba de evaluación para el acceso a la Universidad (EvAU/EBAU) Las enseñanzas universitarias se dividen en 3 ciclos: Grado: formación general orientada al ejercicio de actividades de carácter profesional. Se obtiene el Graduado, consta de un mínimo de 240 créditos y una duración de unos 4 años. Máster: formación avanzada orientada a la especialización académica o profesional. El Máster Universitario consta de entre 60 y 120 créditos, según la duración sea de 1 o 2 años. Doctorado : formación avanzada en técnicas de investigación. Se obtiene el título de Doctor tras superar un periodo de formación e investigación, así como tras la elaboración y presentación de la tesis doctoral. 72 Enseñanzas artísticas : de música, danza, arte dramático, diseño o artes plásticas en ciclos formativos de grado elemental, medio o superior según la categoría. Enseñanzas de régimen especial: Enseñanzas artísticas, deportivas y de idiomas. Enseñanzas deportivas : se organizan en ciclos formativos de nivel medio y superior recibiendo respectivamente el título de Técnico Deportivo o Técnico Deportivo Superior en la especialidad deportiva correspondiente. Enseñanza de idiomas en Escuelas Oﬁciales de Idiomas (EOI): se organizan en tres niveles correspondientes al Marco Común Europeo de Referencia para las Lenguas y para acceder es requisito tener 16 años o más. Tabla 9: Sistema educativo español Hay diferentes tipos de centros : • centros públicos : centros laicos, financiados por la Administración pública. Tienen plazas limitadas y para acceder a ellos es necesario cumplir una serie de requisitos (por ejemplo, cercanía de la vivienda). En su control y gestión participan los alumnos, padres y profesores del centro; • centros concertados: centros privados, la mayoría religiosos, reciben subvenciones de la Administración pública. Tienen libertad de gestión, aunque la Administración establece límite de alumnos por clase, calendario escolar, etc.; • centros privados : están financiados exclusivamente por los padres de los alumnos. Tienen completa libertad de gestión y cierta libertad de currículum, dentro de los límites de la normativa. Los tipos de centros educativos que encontramos son: • escuelas infantiles : es una etapa educativa de carácter voluntario para niñas y niños de 0 a 6 años. Consta de dos ciclos, el primero comprende hasta los tres años de edad y el segundo, abarca de los tres a los seis años. • colegios públicos o privados : que pueden tener educación primaria y secundaria, y en algunos casos también bachillerato; • institutos de educación secundaria : centros públicos donde se ofrece toda la enseñanza secundaria obligatoria entre los 12 y los 16 años y el bachillerato (enseñanza secundaria no obligatoria), así como cursos de formación profesional y otros programas de educación compensatoria; • centros de formación profesional: que puede ser básica, de grado medio o superior; • centros de educación de personas adultas (CEPA): para proporcionar a las personas mayores de 18 años la posibilidad de completar estudios (obtener el Título de Graduado en Educación Secundaria Obligatoria), actualizar o ampliar su formación; 73 también se imparten cursos de preparación para el acceso a la universidad para mayores de 25 años. • universidades públicas y privadas . El sistema educativo español da becas tanto para las distintas etapas o tipos de enseñanza (infantil; primaria y secundaria; bachillerato; formación profesional; enseñanzas artísticas y deportivas; idiomas; estudios religiosos y militares; para estudiar en la Universidad), como para ayudar en los gastos de la escolarización (por ejemplo, apoyo educativo; compra de libros de texto y material didáctico; servicio de comedor o transporte escolar). El Ministerio de Educación, Formación Profesional y Deportes ofrece un servicio para solicitar la homologación o la convalidación de los títulos obtenidos en el extranjero. Otros servicios relacionados son: • las bibliotecas : de acceso gratuito y donde se pueden consultar o sacar en préstamo libros; con videoteca, sala de ordenadores, conexión wifi, lugar de estudio, etc. • los museos: ofrecen visitas virtuales o guiadas, talleres, etc. • los centros culturales públicos : ofrecen visitas virtuales o guiadas, talleres, etc. SALUD Fig. 20: Centro de salud El Sistema Nacional de Salud es el conjunto de servicios sanitarios ofrecidos por los poderes públicos de España. Las competencias de sanidad son de la Administración Central, a través del Ministerio de Sanidad y de las comunidades autónomas. El Ministerio de Sanidad propone y ejecuta la política del Gobierno en materia de salud, de planificación y asistencia sanitaria para asegurar a los ciudadanos el derecho a la protección de la salud. 74 Los establecimientos sanitarios son: • centro de salud: para una atención primaria de salud donde médicos de familia, pediatras, enfermeros prestan su servicio; • centro especializado: donde diferentes profesionales sanitarios atienden a pacientes con determinadas patologías o de un determinado grupo de edad o con características comunes; • hospital: para el internamiento clínico de un paciente o asistencia especializada, especialmente cirugía; También existe un servicio de urgencias en los hospitales, así como asistencia médica domiciliaria , si el paciente la necesitara. Para acceder al sistema sanitario es necesaria la tarjeta sanitaria. Cada ciudadano tiene asignado un médico (médico de familia) al que hay que pedir cita previa. La tarjeta también es necesaria para acceder a recetas médicas o a médicos especialistas. Los ciudadanos también pueden solicitar la tarjeta sanitaria europea , para utilizar en otros países de la UE, que tiene una validez de dos años. Destacan las campañas de formación y de prevención, así como la financiación de algunos medicamentos según la edad. España sobresale por el alto grado de donación de órganos, lleva 30 años consecutivos siendo líder mundial de donaciones. La Organización Nacional de Trasplantes recibió en 2010 el Premio Príncipe de Asturias. SERVICIOS SOCIALES Y PROGRAMAS DE AYUDA El Ministerio de Derechos Sociales y Agenda 2030 y el Ministerio de Inclusión, Seguridad Social y Migraciones se encargan de las cuestiones relacionadas con la integración social, la familia, la protección del menor y la atención a las personas dependientes o con discapacidad. El Ministerio de Igualdad se encarga de luchar contra la discriminación y la violencia de género. El Estado ofrece, a través de la Seguridad Social, ayudas como, por ejemplo, el Ingreso Mínimo Vital para prevenir el riesgo de pobreza y exclusión social; pensión por viudedad, por orfandad o por incapacidad laboral permanente. Por su parte, las distintas comunidades autónomas también ofrecen ayudas destinadas a la familia, infancia, juventud o mayores de 65 años (reducción en el precio de los medicamentos recetados en el Sistema Público de Salud; en el precio del transporte público; de los espectáculos y de los museos, etc., así como condiciones especiales en los viajes promovidos por el IMSERSO). Hay organizaciones no gubernamentales, como Cáritas, Cruz Roja o la Asociación Española Contra el Cáncer (AECC) que ofrecen atención social, económica o sanitaria de gran importancia. La Organización Nacional de Ciegos Españoles (ONCE) trabaja para conseguir la integración de las personas con discapacidad visual y colabora en la atención y defensa de los derechos de las personas con distintos tipos de discapacidad. Fue premiada por su labor internacional con el Premio Príncipe de Asturias de la Concordia en el año 2013. 75 Las distintas comunidades autónomas y la Administración central son responsables de la protección civil y la atención de emergencias en España, además de los Cuerpos y Fuerzas de Seguridad del Estado. El número de teléfono 112 es gratuito y ofrece ayuda al ciudadano ante cualquier tipo de emergencia (sanitaria, incendio, salvamento o seguridad ciudadana) en la Unión Europea. El número de teléfono 016 es gratuito y ofrece servicio de atención a las víctimas de violencia de género, también tiene disponible servicio de WhatsApp (600 000 016) y online ( 016- online@igualdad.gob.es ). No deja rastro en la factura telefónica, está disponible 24 horas y en 53 idiomas. Las llamadas se gestionan de forma confidencial, anónima y sin pedir datos personales. Este servicio depende del Ministerio de Igualdad. MEDIOS DE COMUNICACIÓN E INFORMACIÓN Los medios de comunicación tienen una importante función social (cultural y política), que va cambiando por la mayor presencia en Internet y redes sociales. En televisión, existen los siguientes operadores con emisión nacional: • Canales públicos . Corporación RTVE (Radio Televisión Española): La 1 (generalista), La 2 (cultural), Clan (infantil), 24 horas (noticias) y Teledeporte (deportes). • Canales privados : Atresmedia (Antena 3, Neox, Nova, Atres Series, La Sexta, Mega); Mediaset España (Telecinco, FDF, Boing, Cuatro, Divinity, Energy, Be Mad); Net Television (Disney Channel, Paramount Channel); Veo Televisión (DMax); plataformas de televisión por ADSL (IPTV) y fibra óptica (Movistar TV, Orange TV y Jazzbox); plataformas de cable regionales (Euskaltel, R y Telecable), y una con alcance prácticamente nacional (Ono). Además, se ofrecen canales temáticos (como FOX, CanalCocina o Canal+). • Cadenas autonómicas de televisión pública : Canal Sur (Andalucía), ETB Euskal Telebista (País Vasco), Telemadrid (Comunidad de Madrid), TV3 Corporació Catalana deMitjans Audiovisuals (Cataluña), TVG Compañía de Radio Televisión de Galicia, etc. En los medios de comunicación escrita se pueden distinguir: • medios nacionales: ABC, El Mundo, El País, La Razón, La Vanguardia ; • regionales: El Correo, La Voz de Galicia, Periódico de Catalunya (El Diario vasco) ; • deportivos: As, Marca, Mundo Deportivo; • económicos: Cinco Días, Expansión . La radio tiene una gran presencia en España. La cadena pública es Radio Nacional, y entre las privadas con mayor audiencia están la Cadena Ser, la COPE y Onda Cero. UNIDADES DE MEDIDA El sistema legal de unidades de medida es el Sistema Internacional de Unidades (SI) de la Conferencia General de Pesas y Medidas (CGPM) existente en la Unión Europea. 76 Las principales magnitudes de medidas que comprende el SI son: Magnitud Nombre de la unidad Símbolo Longitud metro m Masa kilogramo kg Tiempo/duración segundo s Tabla 10: Unidades de medida básicas de SI Unidades no pertenecientes al SI cuyo uso es aceptado por el Sistema y que están autorizadas : Magnitud Nombre de la unidad Símbolo Valor en unidades SI Tiempo minuto min 1 min = 60 s hora h 1 h = 60 min día d 1 d = 24 h Área hectárea ha 1 ha = 10 000 m2 Volumen litro l 1 l = 1 dm3 Masa tonelada t 1 t = 1000 kg Tabla 11: Unidades de medida que no pertenecen al SI A continuación, se presentan algunos ejemplos de expresión de medidas: Término Volumen Masa Un cuarto… Un cuarto de litro (250 ml) Un cuarto de kilo (250 g) Medio… Medio litro (500 ml) Medio kilo (500 g) Tres cuartos… Tres cuartos de litro (750 ml) Tres cuartos de kilo (750 g) Tabla 12: Expresiones de medidas 77 HORARIOS COMERCIALES La mayoría de tiendas abre de 10.00 a 14.00 y de 17.00 a 20.00, de lunes a viernes y el sábado, por la mañana. Muchos hipermercados y centros comerciales abren de 10:00 a 22:00 todos los días. NORMATIVA DE COMERCIO El artículo 51 de la Constitución española garantiza la seguridad, la salud y los intereses económicos de los consumidores y usuarios mediante procedimientos eficaces. En la normativa de los comercios hay medidas relativas al etiquetado (fecha de caducidad, precio antes y después de las rebajas…), a la información que se da al consumidor sobre el producto (productos bancarios, seguros, marcas blancas…), a la garantía del producto (dos años para productos nuevos), o las condiciones de cambio, reparación o devolución. Por una parte, la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición protege a los consumidores y usuarios y, por otra, el Consejo de Consumidores defiende los intereses de los consumidores y usuarios y toma decisiones relacionadas con la política de consumo. SERVICIOS Y ESPACIOS PÚBLICOS Los espacios públicos que ofrecen servicios a los ciudadanos son: • farmacias: donde se venden medicinas con receta médica, algunas con ayuda económica de la Administración pública, y tienen un horario mínimo establecido y un servicio de guardia para atender a los ciudadanos durante las 24 horas del día; • correos: lugar en el que se realizan envíos postales; • estancos: establecimiento donde se venden sellos y tabaco; • quioscos: lugar en el que se venden periódicos y revistas. Fig. 21: Quiosco 78 En las ciudades hay zonas de recreo y de descanso , como parques, jardines o instalaciones deportivas. En estos lugares de actividades de ocio al aire libre, hay unas normas: Tabla 13: Normas para los espacios públicos de ocio y recreo Es necesario tener cuidado en parques naturales y espacios protegidos para evitar incendios. TRANSPORTE URBANO E INTERURBANO EN ESPAÑA En España existe una extensa red de carreteras, autopistas de peaje y autovías, que recorren todo el país. La red de carreteras puede ser estatal, autonómica o local. En los últimos años hay menos accidentes mortales en las carreteras, gracias al: • control de velocidad (kilómetros/hora): el límite en autopista o autovía es de 120 km/h, en carretera convencional es de 90 km/h y dentro de la ciudad es de 20, 30 o 50 km/h; • uso de medidas de seguridad en el coche como el uso obligatorio del cinturón de seguridad de todos los ocupantes y la normativa sobre el uso de la silla portabebés; • control de alcoholemia (límite de 0,5 g/l en sangre) y de otras sustancias. Los propietarios de los vehículos deben cumplir una serie de obligaciones, como registrar el coche y matricularlo; tener al día el seguro del coche; hacer las revisiones necesarias (Inspección Técnica de Vehículos, ITV); pagar los impuestos anuales; no dejar conducir el coche a personas sin carné; tener el carné en vigor; respetar las normas de tráfico y no haber perdido todos los puntos del carné (en este caso se retira el permiso de conducir). Respecto al transporte urbano, España presenta un buen sistema combinado de medios de transporte público (metro, autobús, tranvía, taxi), que se completa con la red de trenes (de cercanías, y de media y larga distancia). 1.Respetar a las demás personas, a los representantes del orden (público y privado) y el mobiliario urbano. 2.Respetar las normas escritas del establecimiento o vía pública en la que uno se encuentre. 3.Respetar los horarios de apertura y cierre de las instalaciones. 4.No consumir bebidas, ni alimentos, si no está permitido. 5.No fumar, en el caso de que el lugar público esté frente a un hospital o centro educativo. 6.No pisar el césped, ni arrancar flores. 7.Colaborar con los agentes de seguridad, si fuera necesario. 79 El color de los taxis depende de la ciudad, las tarifas varían de una zona a otra y se pueden tomar en las paradas de taxis o en circulación si tienen una luz verde encendida o el cartel de «Libre». RENFE (Red Nacional de Ferrocarriles Españoles) fue la compañía nacional de tren hasta el año"
+    ],
+    "task": "tarea_4",
+    "correct_answer": 2,
+    "task_id": "4036"
+  },
+  {
+    "question": "¿Quién hace el DNI?",
+    "answers": [
+      "La Policía Nacional.",
+      "La Guardia Civil.",
+      "La Policía local."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5001"
+  },
+  {
+    "question": "¿Cuál es el documento que certifica el lugar de residencia del titular?",
+    "answers": [
+      "El certificado de empadronamiento.",
+      "La partida de nacimiento.",
+      "El carné de conducir."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5002"
+  },
+  {
+    "question": "Para hacer el DNI debes acudir a…",
+    "answers": [
+      "una comisaría de policía.",
+      "el Registro Civil.",
+      "el ayuntamiento."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5003"
+  },
+  {
+    "question": "¿Cuál es la edad mínima para conducir un coche en España?",
+    "answers": [
+      "16 años.",
+      "18 años.",
+      "20 años."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5004"
+  },
+  {
+    "question": "El carné de conducir se hace en…",
+    "answers": [
+      "la Dirección General de Tráfico (DGT).",
+      "la Policía Nacional.",
+      "el Registro Civil."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5005"
+  },
+  {
+    "question": "Para sacar el carné de conducir hay que aprobar…",
+    "answers": [
+      "un examen teórico.",
+      "un examen práctico.",
+      "un examen teórico y otro práctico."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5006"
+  },
+  {
+    "question": "¿Dónde se tramita el libro de familia?",
+    "answers": [
+      "En el Registro Civil.",
+      "En la Seguridad Social.",
+      "En las comisarías de policía."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5007"
+  },
+  {
+    "question": "¿Cuál de estos canales de televisión es autonómico?",
+    "answers": [
+      "Telecinco.",
+      "Nova.",
+      "Canal Sur."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5008"
+  },
+  {
+    "question": "¿Cuánto dura el permiso de maternidad o paternidad?",
+    "answers": [
+      "12 semanas.",
+      "16 semanas.",
+      "22 semanas. 84"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5009"
+  },
+  {
+    "question": "¿Cuál es la tasa máxima de alcohol en sangre permitida a los conductores, en gramos por litro (g/l)?",
+    "answers": [
+      "0,5.",
+      "0,7.",
+      "0,9."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5010"
+  },
+  {
+    "question": "Las viviendas de protección oficial…",
+    "answers": [
+      "tienen un precio limitado.",
+      "son para los funcionarios.",
+      "tienen sistema de vigilancia."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5011"
+  },
+  {
+    "question": "¿Qué comunidad autónoma es conocida por la calidad de su aceite de oliva?",
+    "answers": [
+      "Cantabria.",
+      "Andalucía.",
+      "La Rioja."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5012"
+  },
+  {
+    "question": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
+    "answers": [
+      "IBI (Impuesto sobre Bienes Inmuebles).",
+      "ITV (Inspección Técnica de Vehículos).",
+      "ITE (Inspección Técnica de Edificios)."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5013"
+  },
+  {
+    "question": "El aperitivo que acompaña a la bebida en bares y restaurantes se llama...",
+    "answers": [
+      "bocadillo.",
+      "tapa.",
+      "primer plato."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5014"
+  },
+  {
+    "question": "¿Dónde se tramita la tarjeta sanitaria?",
+    "answers": [
+      "En la comisaría de policía.",
+      "En el centro de salud.",
+      "En el Ministerio de Sanidad."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5015"
+  },
+  {
+    "question": "¿Con cuántos hijos una familia es numerosa?",
+    "answers": [
+      "Con 1 hijo.",
+      "Con 2 hijos.",
+      "Con 3 hijos."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5016"
+  },
+  {
+    "question": "En España está permitido el matrimonio…",
+    "answers": [
+      "solo entre personas del mismo sexo.",
+      "entre personas del mismo y diferente sexo.",
+      "solo entre personas de diferente sexo."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5017"
+  },
+  {
+    "question": "Los propietarios de perros deben registrarlos en…",
+    "answers": [
+      "el Ministerio de Justicia.",
+      "la comisaría de policía.",
+      "el Ayuntamiento."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5018"
+  },
+  {
+    "question": "Los principales ingredientes de la tortilla española son huevos y…",
+    "answers": [
+      "pimientos.",
+      "patatas.",
+      "tomates."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5019"
+  },
+  {
+    "question": "¿Quién es un cocinero famoso dentro y fuera de España?",
+    "answers": [
+      "José Andrés.",
+      "Rafael Nadal.",
+      "Josep Carreras. 85"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5020"
+  },
+  {
+    "question": "¿Cuál de estos canales de televisión es público?",
+    "answers": [
+      "Tele5.",
+      "La 1.",
+      "Antena 3."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5021"
+  },
+  {
+    "question": "En una comunidad de vecinos, una de las normas es…",
+    "answers": [
+      "abrir la puerta al cartero.",
+      "no molestar con ruido.",
+      "limpiar los espacios comunes."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5022"
+  },
+  {
+    "question": "La sangría es una bebida compuesta por refrescos, vino y…",
+    "answers": [
+      "fruta.",
+      "té.",
+      "agua."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5023"
+  },
+  {
+    "question": "La sidra es una bebida típica de…",
+    "answers": [
+      "Asturias.",
+      "Valencia.",
+      "Canarias."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5024"
+  },
+  {
+    "question": "Los españoles tienen dos apellidos, el primero es…",
+    "answers": [
+      "obligatoriamente el de la madre.",
+      "obligatoriamente el del padre.",
+      "puede ser el de la madre o el del padre."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5025"
+  },
+  {
+    "question": "La Fiesta Nacional de España es el…",
+    "answers": [
+      "6 de diciembre.",
+      "15 de agosto.",
+      "12 de octubre."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5026"
+  },
+  {
+    "question": "¿Cuál es el horario habitual de los hipermercados y centros comerciales?",
+    "answers": [
+      "De 9:00 a 17:00 h.",
+      "De 10:00 a 22:00 h.",
+      "De 8:00 a 23:00 h."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5027"
+  },
+  {
+    "question": "¿Dónde se hace el pasaporte?",
+    "answers": [
+      "En el registro civil.",
+      "En una comisaría de policía.",
+      "En el Ayuntamiento."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5028"
+  },
+  {
+    "question": "El Ministerio de Igualdad es el encargado de luchar contra la violencia de género y la…",
+    "answers": [
+      "separación.",
+      "discriminación.",
+      "solidaridad."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5029"
+  },
+  {
+    "question": "¿Cuál de estas regiones es conocida por sus vinos con denominación de origen?",
+    "answers": [
+      "Ribera de Duero.",
+      "Pirineos.",
+      "La Vera."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5030"
+  },
+  {
+    "question": "El DNI se hace…",
+    "answers": [
+      "por internet.",
+      "en persona.",
+      "por teléfono. 86"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5031"
+  },
+  {
+    "question": "El horario de Canarias, con respecto a la Península, es de…",
+    "answers": [
+      "dos horas menos.",
+      "una hora menos.",
+      "una hora más."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5032"
+  },
+  {
+    "question": "Para acceder a la Universidad se debe superar una prueba de evaluación llamada…",
+    "answers": [
+      "Selectividad.",
+      "Examen preuniversitario.",
+      "Prueba de Acceso a la Universidad."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5033"
+  },
+  {
+    "question": "¿Cuál de estos productos necesita importar España de otros países?",
+    "answers": [
+      "Petróleo.",
+      "Aceite de oliva.",
+      "Medicamentos."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5034"
+  },
+  {
+    "question": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
+    "answers": [
+      "impuestos directos como el IRPF.",
+      "impuestos indirectos como el IVA.",
+      "impuestos directos e indirectos."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5035"
+  },
+  {
+    "question": "Los adultos sin Bachillerato pueden estudiar en la Universidad haciendo una prueba especial a partir de los…",
+    "answers": [
+      "18 años.",
+      "23 años.",
+      "25 años."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5036"
+  },
+  {
+    "question": "¿Dónde puede encontrarse la siguiente norma «Dejar salir antes de entrar»?",
+    "answers": [
+      "En el transporte público.",
+      "En parques y jardines.",
+      "En instalaciones deportivas."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5037"
+  },
+  {
+    "question": "El Bachillerato en España…",
+    "answers": [
+      "es obligatorio.",
+      "se compone de dos cursos académicos.",
+      "es la enseñanza a alumnos de 14 a 16 años."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5038"
+  },
+  {
+    "question": "El Impuesto sobre el Valor Añadido (IVA) forma parte de los…",
+    "answers": [
+      "impuestos indirectos.",
+      "impuestos sobre la renta.",
+      "impuestos sobre sociedades."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5039"
+  },
+  {
+    "question": "¿Qué número reciben los trabajadores al comenzar su primer empleo?",
+    "answers": [
+      "El de la Seguridad Social.",
+      "El del pasaporte.",
+      "El número de servicio."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5040"
+  },
+  {
+    "question": "Los colegios públicos…",
+    "answers": [
+      "pueden decidir su número de plazas.",
+      "pueden contratar los profesores que quieran.",
+      "son gratuitos. 87"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5041"
+  },
+  {
+    "question": "¿Cuál de estos puertos es uno de los principales de España?",
+    "answers": [
+      "Tenerife.",
+      "Alicante.",
+      "Algeciras."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5042"
+  },
+  {
+    "question": "Un colegio concertado es un colegio privado que…",
+    "answers": [
+      "recibe dinero de la Administración.",
+      "financian los padres de los alumnos.",
+      "recibe dinero de los bancos."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5043"
+  },
+  {
+    "question": "España exporta productos principalmente a países…",
+    "answers": [
+      "de Hispanoamérica.",
+      "de la Unión Europea.",
+      "del Norte de África."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5044"
+  },
+  {
+    "question": "Las bibliotecas públicas son gratuitas para…",
+    "answers": [
+      "todos.",
+      "los parados.",
+      "los niños."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5045"
+  },
+  {
+    "question": "¿Cuál de estos productos exporta España más que importa?",
+    "answers": [
+      "Gas.",
+      "Ropa.",
+      "Calzado."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5046"
+  },
+  {
+    "question": "Una persona mayor de 18 años puede obtener el título de Graduado en Educación Secundaria Obligatoria en…",
+    "answers": [
+      "un Centro de Educación de Personas Adultas.",
+      "un centro de enseñanza Primaria.",
+      "una universidad."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5047"
+  },
+  {
+    "question": "La formación profesional…",
+    "answers": [
+      "es para mayores de 25 años.",
+      "puede ser de grado medio o superior.",
+      "es obligatoria."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5048"
+  },
+  {
+    "question": "¿Adónde vamos para ver al médico de familia o al pediatra?",
+    "answers": [
+      "Al hospital.",
+      "Al centro de salud.",
+      "A la farmacia."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5049"
+  },
+  {
+    "question": "¿Para cuántos años vale la tarjeta sanitaria europea?",
+    "answers": [
+      "Para un año.",
+      "Para dos años.",
+      "Para 10 años."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5050"
+  },
+  {
+    "question": "¿A qué hora se cena normalmente en España?",
+    "answers": [
+      "A las 18 h.",
+      "A las 23 h.",
+      "A las 21 o 22 h. 88"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5051"
+  },
+  {
+    "question": "¿Cuál es el número de teléfono único para cualquier emergencia?",
+    "answers": [
+      "060.",
+      "112.",
+      "911."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5052"
+  },
+  {
+    "question": "¿Cuál es un periódico deportivo?",
+    "answers": [
+      "ABC.",
+      "As.",
+      "Cinco días ."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5053"
+  },
+  {
+    "question": "¿Dónde se venden sellos y tabaco?",
+    "answers": [
+      "En el quiosco.",
+      "En la farmacia.",
+      "En el estanco."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5054"
+  },
+  {
+    "question": "¿Cómo se llama el tren español de alta velocidad?",
+    "answers": [
+      "AVE.",
+      "TGV.",
+      "Eurostar."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5055"
+  },
+  {
+    "question": "La organización que trabaja para conseguir la integración de las personas con discapacidad visual es…",
+    "answers": [
+      "la ONCE.",
+      "Unicef.",
+      "Cáritas."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5056"
+  },
+  {
+    "question": "El Camino de Santiago es…",
+    "answers": [
+      "Patrimonio de la Humanidad.",
+      "una vía de ferrocarril.",
+      "una ruta para excursionistas."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5057"
+  },
+  {
+    "question": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacional e internacional continuamente?",
+    "answers": [
+      "Teledeporte.",
+      "La 1.",
+      "Canal 24 horas."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5058"
+  },
+  {
+    "question": "El teléfono gratuito para las víctimas de violencia de género es el…",
+    "answers": [
+      "091.",
+      "112.",
+      "016."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5059"
+  },
+  {
+    "question": "En España, la red de trenes puede ser de larga distancia, de media distancia y…",
+    "answers": [
+      "de cercanías.",
+      "rural.",
+      "transnacional."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5060"
+  },
+  {
+    "question": "¿Qué está prohibido hacer en la puerta de un hospital o colegio?",
+    "answers": [
+      "Fumar.",
+      "Comer.",
+      "Beber."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5061"
+  },
+  {
+    "question": "Cuando compramos 250 gramos de un alimento estamos comprando…",
+    "answers": [
+      "medio kilo.",
+      "un cuarto de kilo.",
+      "un tercio de kilo. 89"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5062"
+  },
+  {
+    "question": "Si compramos una botella de agua de 750 ml, compramos una botella de…",
+    "answers": [
+      "tres cuartos de litro.",
+      "medio litro.",
+      "un litro."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5063"
+  },
+  {
+    "question": "¿Dónde se compran las medicinas con receta?",
+    "answers": [
+      "En el hospital.",
+      "En el centro de salud.",
+      "En la farmacia."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5064"
+  },
+  {
+    "question": "¿Cuál de estas tres recomendaciones podemos encontrar en un parque?",
+    "answers": [
+      "No pisar el césped.",
+      "Se recomienda pagar el billete con el dinero justo.",
+      "Respetar las normas sobre equipaje."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5065"
+  },
+  {
+    "question": "¿Cuál de las siguientes cosas es obligatoria para el propietario de un coche en España?",
+    "answers": [
+      "El garaje.",
+      "El seguro.",
+      "La alarma."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5066"
+  },
+  {
+    "question": "El aeropuerto Adolfo Suárez está en…",
+    "answers": [
+      "Barcelona.",
+      "Madrid.",
+      "Bilbao."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5067"
+  },
+  {
+    "question": "En un coche es obligatorio el uso del cinturón de seguridad...",
+    "answers": [
+      "solo en el asiento del conductor.",
+      "en los asientos delanteros.",
+      "en todos los asientos."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 2,
+    "task_id": "5068"
+  },
+  {
+    "question": "¿Cuál es el límite de velocidad en autopista?",
+    "answers": [
+      "90 km/h.",
+      "120 km/h.",
+      "150 km/h."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5069"
+  },
+  {
+    "question": "Ceder el asiento a las personas con movilidad reducida es una norma que encontramosindicada en…",
+    "answers": [
+      "el transporte público.",
+      "las bibliotecas.",
+      "los museos."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5070"
+  },
+  {
+    "question": "¿En qué caso se retira el permiso de conducir?",
+    "answers": [
+      "Por accidente grave.",
+      "Por la pérdida de los puntos.",
+      "Por exceso de velocidad."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5071"
+  },
+  {
+    "question": "¿Qué significa Renfe?",
+    "answers": [
+      "Red Nacional de Fondos Europeos.",
+      "Red Nacional de los Ferrocarriles Españoles.",
+      "Red Nacional de Fundaciones Estatales. 90"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5072"
+  },
+  {
+    "question": "Los españoles necesitan el pasaporte para viajar a…",
+    "answers": [
+      "Italia.",
+      "China.",
+      "Alemania."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5073"
+  },
+  {
+    "question": "¿Cuál es la edad mínima para trabajar en España?",
+    "answers": [
+      "16 años.",
+      "18 años.",
+      "21 años."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5074"
+  },
+  {
+    "question": "¿Cuál es el sector de mayor peso en la economía española?",
+    "answers": [
+      "Agricultura.",
+      "Servicios.",
+      "Construcción."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5075"
+  },
+  {
+    "question": "España es innovadora en el sector de…",
+    "answers": [
+      "la ingeniería aeroespacial.",
+      "las energías renovables.",
+      "la energía nuclear."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5076"
+  },
+  {
+    "question": "¿Cómo se llama la ley laboral más importante de España?",
+    "answers": [
+      "La Constitución.",
+      "El Estatuto de los Trabajadores.",
+      "El Servicio Público de Empleo Estatal."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5077"
+  },
+  {
+    "question": "¿Cuáles de estos establecimientos está abierto 24 horas si es necesario?",
+    "answers": [
+      "Farmacia.",
+      "Pescadería.",
+      "Librería."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5078"
+  },
+  {
+    "question": "La educación infantil en España…",
+    "answers": [
+      "es obligatoria.",
+      "tiene dos ciclos.",
+      "empieza a los 4 años."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5079"
+  },
+  {
+    "question": "¿Cuándo empieza el calendario escolar?",
+    "answers": [
+      "En agosto.",
+      "En septiembre.",
+      "En octubre."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5080"
+  },
+  {
+    "question": "Las Escuelas Oficiales de Idiomas…",
+    "answers": [
+      "son centros de enseñanza privada.",
+      "son para mayores de 16 años.",
+      "dependen del Instituto Cervantes."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 1,
+    "task_id": "5081"
+  },
+  {
+    "question": "¿Cuál es el documento que recoge los años de cotización a la Seguridad Social?",
+    "answers": [
+      "Informe de vida laboral.",
+      "Recibo de finiquito.",
+      "Certificado de profesionalidad. 91"
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5082"
+  },
+  {
+    "question": "Los convenios colectivos de una empresa son los que se firman con los representantes de los trabajadores sobre…",
+    "answers": [
+      "las condiciones laborales.",
+      "El futuro de la empresa.",
+      "La relación con los clientes."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5083"
+  },
+  {
+    "question": "¿Cuál de estas comunidades autónomas tiene el PIB por habitante más alto?",
+    "answers": [
+      "Navarra.",
+      "Galicia.",
+      "Andalucía."
+    ],
+    "task": "tarea_5",
+    "correct_answer": 0,
+    "task_id": "5084"
+  }
+]

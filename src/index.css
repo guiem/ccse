@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --card-max-w: 860px;
+}
+
+/* Emoji particle style */
+.emoji {
+  position: absolute;
+  pointer-events: none;
+  font-size: 1.4rem;
+  will-change: transform, opacity;
+}
+
+.glass {
+  @apply bg-white/70 backdrop-blur supports-[backdrop-filter]:bg-white/60;
+}
