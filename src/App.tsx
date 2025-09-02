@@ -94,7 +94,7 @@ export default function App() {
       <Controls mode={mode} setMode={setMode} availableTasks={uniqueTasks} />
 
       <div className="mt-2 space-y-4">
-        <QuestionCard item={current} onAnswer={onAnswered} />
+        <QuestionCard key={current.task_id} item={current} onAnswer={onAnswered}/>
 
         <div className="mx-auto max-w-[var(--card-max-w)] px-4">
           <div className="grid grid-cols-2 gap-3">

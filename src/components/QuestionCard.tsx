@@ -1,4 +1,4 @@
-import React, { useMemo, useRef, useState } from 'react'
+import React, { useMemo, useRef, useState, useEffect } from 'react'
 import type { QAItem } from '../types'
 import { TASK_COLORS, TASK_LABELS } from '../utils'
 
@@ -33,6 +33,10 @@ type Props = {
 export default function QuestionCard({ item, onAnswer }: Props) {
   const [selectedIdx, setSelectedIdx] = useState<number | null>(null)
   const containerRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    setSelectedIdx(null)
+  }, [item.task_id])
 
   const title = TASK_LABELS[item.task]
   const color = TASK_COLORS[item.task]

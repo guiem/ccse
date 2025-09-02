@@ -13,7 +13,6 @@ export default function Header({ onOpenStats }: Props) {
           <span className="text-2xl">🇪🇸</span>
           <div>
             <h1 className="font-semibold text-slate-900 leading-tight">CCSE 2025 • Práctica</h1>
-            <p className="text-xs text-slate-600">Modo móvil primero · funciona también en ordenador</p>
           </div>
         </div>
         {PREMIUM_ENABLED && (
