@@ -5,7 +5,7 @@ import Header from './components/Header'
 import Controls from './components/Controls'
 import QuestionCard from './components/QuestionCard'
 import StatsModal from './components/StatsModal'
-import { PREMIUM_ENABLED, groupByTask, loadStats, saveStats, recordAnswer, shuffleInPlace, clamp } from './utils'
+import { PREMIUM_ENABLED, groupByTask, loadStats, saveStats, recordAnswer, shuffleInPlace, clamp, loadBookmarks, saveBookmarks } from './utils'
 
 export default function App() {
   const [items, setItems] = useState<QAItem[] | null>(null)
@@ -17,6 +17,7 @@ export default function App() {
 
   const [stats, setStats] = useState<Stats>(() => loadStats())
   const [statsOpen, setStatsOpen] = useState(false)
+  const [bookmarks, setBookmarks] = useState<Set<string>>(() => new Set(loadBookmarks()))
 
   // ✅ NEW: 1-based input value for sequential starting point
   const [startAt, setStartAt] = useState<number>(1)
@@ -29,6 +30,11 @@ export default function App() {
       })
       .catch(() => setError('No se pudo cargar el archivo data-25.json. Asegúrate de colocarlo en /public/data/'))
   }, [])
+
+  // persist bookmarks when changed
+  useEffect(() => {
+    saveBookmarks(Array.from(bookmarks))
+  }, [bookmarks])
 
   // Build queue depending on mode
   useEffect(() => {
@@ -103,6 +109,15 @@ export default function App() {
     saveStats(newStats)
   }
 
+  const toggleBookmark = (item: QAItem) => {
+    setBookmarks(prev => {
+      const next = new Set(prev)
+      if (next.has(item.task_id)) next.delete(item.task_id)
+      else next.add(item.task_id)
+      return next
+    })
+  }
+
   // ✅ Persist “last visited” whenever visible index changes in sequential mode
   useEffect(() => {
     if (!PREMIUM_ENABLED) return
@@ -159,7 +174,15 @@ export default function App() {
       />
 
       <div className="mt-2 space-y-4">
-        <QuestionCard key={current.task_id} item={current} onAnswer={onAnswered} />
+        <QuestionCard
+          key={current.task_id}
+          item={current}
+          onAnswer={onAnswered}
+          {...(PREMIUM_ENABLED ? {
+            isBookmarked: bookmarks.has(current.task_id),
+            onToggleBookmark: () => toggleBookmark(current)
+          } : {})}
+        />
 
         <div className="mx-auto max-w-[var(--card-max-w)] px-4">
           <div className="grid grid-cols-2 gap-3">

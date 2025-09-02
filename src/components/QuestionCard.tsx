@@ -28,9 +28,11 @@ function spawnEmojiBurst(container: HTMLElement, good: boolean, x?: number, y?: 
 type Props = {
   item: QAItem
   onAnswer: (correct: boolean) => void
+  isBookmarked?: boolean
+  onToggleBookmark?: () => void
 }
 
-export default function QuestionCard({ item, onAnswer }: Props) {
+export default function QuestionCard({ item, onAnswer, isBookmarked = false, onToggleBookmark }: Props) {
   const [selectedIdx, setSelectedIdx] = useState<number | null>(null)
   const containerRef = useRef<HTMLDivElement>(null)
 
@@ -61,7 +63,32 @@ export default function QuestionCard({ item, onAnswer }: Props) {
 
   return (
     <div ref={containerRef} className="relative mx-auto max-w-[var(--card-max-w)] px-4">
-      <article className="rounded-2xl shadow-sm border overflow-hidden bg-white animate-popin">
+      <article className="relative rounded-2xl shadow-sm border overflow-hidden bg-white animate-popin">
+        {/* Bookmark toggle */}
+        {onToggleBookmark && (
+          <button
+            onClick={onToggleBookmark}
+            className="absolute top-2 right-2 rounded-lg bg-white/90 backdrop-blur border border-slate-200 p-2 shadow-sm hover:bg-white active:scale-95 transition"
+            aria-label={isBookmarked ? 'Quitar marcador' : 'Marcar pregunta'}
+            title={isBookmarked ? 'Quitar marcador' : 'Marcar pregunta'}
+          >
+            {/* bookmark icon */}
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill={isBookmarked ? '#f59e0b' : 'none'}
+              stroke={isBookmarked ? '#f59e0b' : 'currentColor'}
+              strokeWidth="1.8"
+              className="h-5 w-5 text-slate-700"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M6.75 3.75h10.5A.75.75 0 0 1 18 4.5v15.19a.375.375 0 0 1-.597.3L12 16.5l-5.403 3.49A.375.375 0 0 1 6 19.69V4.5a.75.75 0 0 1 .75-.75z"
+              />
+            </svg>
+          </button>
+        )}
         <div className="px-5 py-3" style={{ background: color }}>
           <div className="text-white text-sm font-semibold">
             {title}

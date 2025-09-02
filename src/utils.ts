@@ -72,3 +72,21 @@ export function getTopFailed(stats: import('./types').Stats, items: QAItem[], to
 }
 
 export const clamp = (n: number, min: number, max: number) => Math.max(min, Math.min(max, n));
+
+// Bookmarks: simple string[] of task_id persisted in localStorage
+const BOOKMARKS_KEY = 'ccse_bookmarks_v1'
+
+export function loadBookmarks(): string[] {
+  try {
+    const raw = localStorage.getItem(BOOKMARKS_KEY)
+    if (!raw) return []
+    const parsed = JSON.parse(raw)
+    return Array.isArray(parsed) ? parsed : []
+  } catch {
+    return []
+  }
+}
+
+export function saveBookmarks(ids: string[]) {
+  localStorage.setItem(BOOKMARKS_KEY, JSON.stringify(ids))
+}
