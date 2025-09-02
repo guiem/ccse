@@ -1,0 +1,107 @@
+import React, { useMemo, useRef, useState } from 'react'
+import type { QAItem } from '../types'
+import { TASK_COLORS, TASK_LABELS } from '../utils'
+
+const HAPPY = ['🎉','🥳','👏','✨','😄','😎','👍','🌟','💃','🕺']
+const SAD = ['😵','😖','😢','😞','💔','🙈','🫣','😬','😕','😓']
+
+function spawnEmojiBurst(container: HTMLElement, good: boolean, x?: number, y?: number) {
+  const EMOJIS = good ? HAPPY : SAD
+  const rect = container.getBoundingClientRect()
+  const cx = (x ?? rect.width / 2)
+  const cy = (y ?? rect.height / 2)
+  for (let i = 0; i < 12; i++) {
+    const span = document.createElement('span')
+    span.className = 'emoji animate-burst'
+    span.textContent = EMOJIS[Math.floor(Math.random() * EMOJIS.length)]
+    const angle = Math.random() * Math.PI * 2
+    const dist = 50 + Math.random() * 70
+    span.style.left = cx + 'px'
+    span.style.top = cy + 'px'
+    span.style.setProperty('--dx', `${Math.cos(angle) * dist}px`)
+    span.style.setProperty('--dy', `${Math.sin(angle) * dist}px`)
+    container.appendChild(span)
+    setTimeout(() => span.remove(), 900)
+  }
+}
+
+type Props = {
+  item: QAItem
+  onAnswer: (correct: boolean) => void
+}
+
+export default function QuestionCard({ item, onAnswer }: Props) {
+  const [selectedIdx, setSelectedIdx] = useState<number | null>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
+
+  const title = TASK_LABELS[item.task]
+  const color = TASK_COLORS[item.task]
+
+  const answers = useMemo(() => item.answers.map((ans, idx) => ({
+    idx, ans
+  })), [item.answers])
+
+  const handleSelect = (idx: number, e: React.MouseEvent) => {
+    if (selectedIdx !== null) return // prevent double-click
+    setSelectedIdx(idx)
+    const isCorrect = idx === item.correct_answer
+    onAnswer(isCorrect)
+    const host = containerRef.current
+    if (host) {
+      const rect = (e.target as HTMLElement).getBoundingClientRect()
+      const x = rect.left - host.getBoundingClientRect().left + rect.width / 2
+      const y = rect.top - host.getBoundingClientRect().top + rect.height / 2
+      spawnEmojiBurst(host, isCorrect, x, y)
+    }
+  }
+
+  return (
+    <div ref={containerRef} className="relative mx-auto max-w-[var(--card-max-w)] px-4">
+      <article className="rounded-2xl shadow-sm border overflow-hidden bg-white animate-popin">
+        <div className="px-5 py-3" style={{ background: color }}>
+          <div className="text-white text-sm font-semibold">
+            {title}
+          </div>
+          <div className="text-white/90 text-xs">#{item.task_id}</div>
+        </div>
+        <div className="p-5">
+          <h2 className="text-lg font-semibold text-slate-900">{item.question}</h2>
+          <div className="mt-4 grid gap-2">
+            {answers.map(({ idx, ans }) => {
+              const isChosen = selectedIdx === idx
+              const isCorrect = idx === item.correct_answer
+              const styles = selectedIdx === null
+                ? "border-slate-200 hover:border-slate-400 hover:bg-slate-50"
+                : isCorrect
+                  ? "border-emerald-500 bg-emerald-50"
+                  : (isChosen ? "border-rose-500 bg-rose-50" : "border-slate-200 opacity-70")
+              return (
+                <button
+                  key={idx}
+                  onClick={(e) => handleSelect(idx, e)}
+                  className={`text-left rounded-xl border px-4 py-3 transition ${styles}`}
+                  aria-label={`Respuesta ${idx+1}`}
+                >
+                  <span className="text-slate-900">{ans}</span>
+                </button>
+              )
+            })}
+          </div>
+          {selectedIdx !== null && (
+            <div className="mt-3 text-sm">
+              {selectedIdx === item.correct_answer ? (
+                <span className="inline-flex items-center gap-2 text-emerald-700 font-medium">
+                  ✅ ¡Correcto!
+                </span>
+              ) : (
+                <span className="inline-flex items-center gap-2 text-rose-700 font-medium">
+                  ❌ Incorrecto
+                </span>
+              )}
+            </div>
+          )}
+        </div>
+      </article>
+    </div>
+  )
+}
