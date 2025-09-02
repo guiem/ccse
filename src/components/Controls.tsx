@@ -1,3 +1,4 @@
+// src/components/Controls.tsx
 import React from 'react'
 import type { Mode, QAItem } from '../types'
 import { TASK_LABELS } from '../utils'
@@ -6,9 +7,14 @@ type Props = {
   mode: Mode
   setMode: (m: Mode) => void
   availableTasks: QAItem['task'][]
+
+  // ✅ NEW: sequential start-at control (1-based for the UI)
+  startAt: number
+  setStartAt: (n: number) => void
+  maxStart: number // queue length for bounds
 }
 
-export default function Controls({ mode, setMode, availableTasks }: Props) {
+export default function Controls({ mode, setMode, availableTasks, startAt, setStartAt, maxStart }: Props) {
   const orderSelect = (
     <select
       className="w-full rounded-xl border border-slate-300 bg-white px-3 py-2"
@@ -59,6 +65,28 @@ export default function Controls({ mode, setMode, availableTasks }: Props) {
         <label className="text-xs font-medium text-slate-600">Orden</label>
         <div className="mt-1">{orderSelect}</div>
       </div>
+
+      {/* ✅ NEW input on the right (your red circle area) — only when Sequential */}
+      {mode.order === 'sequential' && (
+        <div className="col-span-2 sm:col-span-1">
+          <label className="text-xs font-medium text-slate-600">Empezar desde</label>
+          <input
+            type="number"
+            className="w-full mt-1 rounded-xl border border-slate-300 bg-white px-3 py-2"
+            min={1}
+            max={Math.max(1, maxStart)}
+            value={startAt}
+            onChange={(e) => {
+              const n = Number(e.target.value || 1)
+              // clamp to 1..maxStart
+              const clamped = Math.min(Math.max(1, n), Math.max(1, maxStart))
+              setStartAt(clamped)
+            }}
+            placeholder="1"
+          />
+          <p className="mt-1 text-xs text-slate-500">Introduce el número de la pregunta en la secuencia.</p>
+        </div>
+      )}
     </section>
   )
 }

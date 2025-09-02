@@ -70,3 +70,5 @@ export function getTopFailed(stats: import('./types').Stats, items: QAItem[], to
   withWrong.sort((a,b) => b.wrong - a.wrong);
   return withWrong.filter(x => x.wrong > 0).slice(0, topN);
 }
+
+export const clamp = (n: number, min: number, max: number) => Math.max(min, Math.min(max, n));

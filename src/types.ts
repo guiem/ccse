@@ -12,6 +12,8 @@ export type Stats = {
   wrong: number;
   wrongCountById: Record<string, number>; // task_id -> count wrong
   lastUpdated: string;
+  lastSeqAll?: number; // zero-based index for "all" sequential
+  lastSeqByTask?: Partial<Record<QAItem['task'], number>>; // zero-based per tarea sequential
 };
 
 export type Mode =
