@@ -18,6 +18,7 @@ export default function App() {
   const [stats, setStats] = useState<Stats>(() => loadStats())
   const [statsOpen, setStatsOpen] = useState(false)
   const [bookmarks, setBookmarks] = useState<Set<string>>(() => new Set(loadBookmarks()))
+  const [pendingClearFailed, setPendingClearFailed] = useState<Set<string>>(() => new Set())
 
   // ✅ NEW: 1-based input value for sequential starting point
   const [startAt, setStartAt] = useState<number>(1)
@@ -43,9 +44,13 @@ export default function App() {
     let base: QAItem[] = []
     if (mode.kind === 'all') {
       base = [...items]
-    } else {
+    } else if (mode.kind === 'task') {
       const byTask = groupByTask(items)
       base = [...byTask[mode.task]]
+    } else if (mode.kind === 'failed') {
+      base = items.filter(it => (stats.wrongCountById[it.task_id] ?? 0) > 0)
+    } else if (mode.kind === 'bookmarked') {
+      base = items.filter(it => bookmarks.has(it.task_id))
     }
 
     if (mode.order === 'random') {
@@ -66,7 +71,7 @@ export default function App() {
     if (PREMIUM_ENABLED) {
       if (mode.kind === 'all') {
         initialIdxZero = stats.lastSeqAll ?? 0
-      } else {
+      } else if (mode.kind === 'task') {
         initialIdxZero = stats.lastSeqByTask?.[mode.task] ?? 0
       }
     }
@@ -92,12 +97,55 @@ export default function App() {
   const current = useMemo(() => queue[index], [queue, index])
 
   const next = () => {
-    setIndex(i => (i + 1) % (queue.length || 1))
+    if (!current) return
+    if (mode.kind === 'failed' && pendingClearFailed.has(current.task_id)) {
+      // Remove from stats and queue now
+      const newStats: Stats = { ...stats, wrongCountById: { ...stats.wrongCountById } }
+      delete newStats.wrongCountById[current.task_id]
+      setStats(newStats)
+      saveStats(newStats)
+
+      const newQueue = queue.filter(q => q.task_id !== current.task_id)
+      setQueue(newQueue)
+      setPendingClearFailed(prev => {
+        const n = new Set(prev); n.delete(current.task_id); return n
+      })
+      if (newQueue.length === 0) {
+        setIndex(0)
+      } else {
+        // keep same index to move to what was next
+        setIndex(i => Math.min(i, newQueue.length - 1))
+      }
+    } else {
+      setIndex(i => (i + 1) % (queue.length || 1))
+    }
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   const prev = () => {
-    setIndex(i => (i - 1 + (queue.length || 1)) % (queue.length || 1))
+    if (!current) return
+    if (mode.kind === 'failed' && pendingClearFailed.has(current.task_id)) {
+      // Remove from stats and queue now
+      const newStats: Stats = { ...stats, wrongCountById: { ...stats.wrongCountById } }
+      delete newStats.wrongCountById[current.task_id]
+      setStats(newStats)
+      saveStats(newStats)
+
+      const idxBefore = index
+      const newQueue = queue.filter(q => q.task_id !== current.task_id)
+      setQueue(newQueue)
+      setPendingClearFailed(prev => {
+        const n = new Set(prev); n.delete(current.task_id); return n
+      })
+      if (newQueue.length === 0) {
+        setIndex(0)
+      } else {
+        // go to previous relative to old position
+        setIndex(() => (idxBefore - 1 + newQueue.length) % newQueue.length)
+      }
+    } else {
+      setIndex(i => (i - 1 + (queue.length || 1)) % (queue.length || 1))
+    }
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
@@ -105,6 +153,10 @@ export default function App() {
     if (!current) return
     const newStats = { ...stats, wrongCountById: { ...stats.wrongCountById } }
     recordAnswer(newStats, current, correct)
+    // In failed mode, defer removal until navigation to let animations play
+    if (correct && (mode.kind === 'failed')) {
+      setPendingClearFailed(prev => new Set(prev).add(current.task_id))
+    }
     setStats(newStats)
     saveStats(newStats)
   }
@@ -131,7 +183,7 @@ export default function App() {
 
     if (mode.kind === 'all') {
       newStats.lastSeqAll = index
-    } else {
+    } else if (mode.kind === 'task') {
       newStats.lastSeqByTask![mode.task] = index
     }
     setStats(newStats)

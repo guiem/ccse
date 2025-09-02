@@ -1,7 +1,7 @@
 // src/components/Controls.tsx
 import React from 'react'
 import type { Mode, QAItem } from '../types'
-import { TASK_LABELS } from '../utils'
+import { TASK_LABELS, PREMIUM_ENABLED } from '../utils'
 
 type Props = {
   mode: Mode
@@ -30,12 +30,12 @@ export default function Controls({ mode, setMode, availableTasks, startAt, setSt
     <section className="mx-auto max-w-screen-md px-4 pt-4 pb-3 grid grid-cols-2 gap-3">
       <div className="col-span-2">
         <label className="text-xs font-medium text-slate-600">Modo</label>
-        <div className="mt-1 grid grid-cols-2 gap-3">
+        <div className="mt-1 grid grid-cols-2 sm:grid-cols-4 gap-3">
           <button
             className={`rounded-xl border px-3 py-2 text-sm ${mode.kind === 'all' ? 'border-slate-900 bg-slate-900 text-white' : 'border-slate-300 bg-white'}`}
             onClick={() => setMode({ kind: 'all', order: mode.order })}
           >
-            Todas las preguntas
+            Todas
           </button>
           <button
             className={`rounded-xl border px-3 py-2 text-sm ${mode.kind === 'task' ? 'border-slate-900 bg-slate-900 text-white' : 'border-slate-300 bg-white'}`}
@@ -43,6 +43,22 @@ export default function Controls({ mode, setMode, availableTasks, startAt, setSt
           >
             Por tarea
           </button>
+          {PREMIUM_ENABLED && (
+            <>
+              <button
+                className={`rounded-xl border px-3 py-2 text-sm ${mode.kind === 'failed' ? 'border-slate-900 bg-slate-900 text-white' : 'border-slate-300 bg-white'}`}
+                onClick={() => setMode({ kind: 'failed', order: mode.order })}
+              >
+                Revisar Errores
+              </button>
+              <button
+                className={`rounded-xl border px-3 py-2 text-sm ${mode.kind === 'bookmarked' ? 'border-slate-900 bg-slate-900 text-white' : 'border-slate-300 bg-white'}`}
+                onClick={() => setMode({ kind: 'bookmarked', order: mode.order })}
+              >
+                Revisar Guardadas
+              </button>
+            </>
+          )}
         </div>
       </div>
 

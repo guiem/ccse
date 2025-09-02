@@ -18,4 +18,6 @@ export type Stats = {
 
 export type Mode =
   | { kind: 'all'; order: 'random' | 'sequential' }
-  | { kind: 'task'; task: QAItem['task']; order: 'random' | 'sequential' };
+  | { kind: 'task'; task: QAItem['task']; order: 'random' | 'sequential' }
+  | { kind: 'failed'; order: 'random' | 'sequential' } // premium: review wrong
+  | { kind: 'bookmarked'; order: 'random' | 'sequential' }; // premium: review saved

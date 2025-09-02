@@ -89,11 +89,12 @@ export default function QuestionCard({ item, onAnswer, isBookmarked = false, onT
             </svg>
           </button>
         )}
-        <div className="px-5 py-3" style={{ background: color }}>
-          <div className="text-white text-sm font-semibold">
-            {title}
+        <div className="px-5 py-3 bg-slate-100/90 supports-[backdrop-filter]:bg-slate-100/80 border-b border-slate-200">
+          <div className="flex items-center gap-2">
+            <span className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: color }} />
+            <div className="text-slate-900 text-sm font-semibold">{title}</div>
           </div>
-          <div className="text-white/90 text-xs">#{item.task_id}</div>
+          <div className="text-slate-500 text-xs">#{item.task_id}</div>
         </div>
         <div className="p-5">
           <h2 className="text-lg font-semibold text-slate-900">{item.question}</h2>
