@@ -10,7 +10,7 @@ import { PREMIUM_ENABLED, groupByTask, loadStats, saveStats, recordAnswer, shuff
 export default function App() {
   const [items, setItems] = useState<QAItem[] | null>(null)
   const [error, setError] = useState<string | null>(null)
-  const [mode, setMode] = useState<Mode>({ kind: 'all', order: 'random' })
+  const [mode, setMode] = useState<Mode>({ kind: 'all', order: 'sequential' })
 
   const [index, setIndex] = useState(0)
   const [queue, setQueue] = useState<QAItem[]>([])
