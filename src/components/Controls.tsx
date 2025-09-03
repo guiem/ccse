@@ -1,5 +1,5 @@
 // src/components/Controls.tsx
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import type { Mode, QAItem } from '../types'
 import { TASK_LABELS, PREMIUM_ENABLED } from '../utils'
 
@@ -15,6 +15,13 @@ type Props = {
 }
 
 export default function Controls({ mode, setMode, availableTasks, startAt, setStartAt, maxStart }: Props) {
+  // Local input state to allow empty while typing
+  const [startAtInput, setStartAtInput] = useState<string>(String(startAt))
+
+  // Sync when external startAt changes (e.g., mode change)
+  useEffect(() => {
+    setStartAtInput(String(startAt))
+  }, [startAt])
   const orderSelect = (
     <select
       className="w-full rounded-xl border border-slate-300 bg-white px-3 py-2"
@@ -91,12 +98,24 @@ export default function Controls({ mode, setMode, availableTasks, startAt, setSt
             className="w-full mt-1 rounded-xl border border-slate-300 bg-white px-3 py-2"
             min={1}
             max={Math.max(1, maxStart)}
-            value={startAt}
+            inputMode="numeric"
+            value={startAtInput}
             onChange={(e) => {
-              const n = Number(e.target.value || 1)
-              // clamp to 1..maxStart
-              const clamped = Math.min(Math.max(1, n), Math.max(1, maxStart))
+              const v = e.target.value
+              setStartAtInput(v)
+              // If valid integer, update parent immediately; allow empty while typing
+              if (/^\d+$/.test(v)) {
+                const n = Number(v)
+                const clamped = Math.min(Math.max(1, n), Math.max(1, maxStart))
+                setStartAt(clamped)
+              }
+            }}
+            onBlur={() => {
+              // Normalize on blur: empty -> 1; clamp to bounds
+              const n = Number(startAtInput)
+              const clamped = Number.isFinite(n) && n > 0 ? Math.min(Math.max(1, n), Math.max(1, maxStart)) : 1
               setStartAt(clamped)
+              setStartAtInput(String(clamped))
             }}
             placeholder="1"
           />
