@@ -271,7 +271,7 @@ export default function App() {
     )
   }
 
-  if (!items || queue.length === 0) {
+  if (!items) {
     return (
       <div>
         <Header onOpenStats={() => setStatsOpen(true)} onOpenMenu={() => setMenuOpen(true)} />
@@ -318,15 +318,44 @@ export default function App() {
       />
 
       <div className="mt-2 space-y-4">
-        <QuestionCard
-          key={current.task_id}
-          item={current}
-          onAnswer={onAnswered}
-          {...(PREMIUM_ENABLED ? {
-            isBookmarked: bookmarks.has(current.task_id),
-            onToggleBookmark: () => toggleBookmark(current)
-          } : {})}
-        />
+        {current ? (
+          <QuestionCard
+            key={current.task_id}
+            item={current}
+            onAnswer={onAnswered}
+            {...(PREMIUM_ENABLED ? {
+              isBookmarked: bookmarks.has(current.task_id),
+              onToggleBookmark: () => toggleBookmark(current)
+            } : {})}
+          />
+        ) : (
+          <div className="mx-auto max-w-[var(--card-max-w)] px-4">
+            <div className="rounded-2xl border bg-white p-6 text-center">
+              <p className="text-sm text-slate-700">
+                {mode.kind === 'bookmarked' && 'No tienes preguntas guardadas todavía.'}
+                {mode.kind === 'failed' && 'No hay preguntas con fallos pendientes. ¡Bien hecho!'}
+                {mode.kind === 'task' && 'No encontramos preguntas para esta tarea.'}
+                {mode.kind === 'all' && 'No hay preguntas disponibles.'}
+              </p>
+              <div className="mt-4 flex items-center justify-center gap-2">
+                <button
+                  onClick={() => setMode({ kind: 'all', order: mode.order })}
+                  className="rounded-xl border border-slate-300 bg-white px-4 py-2 text-sm"
+                >
+                  Volver a Todas
+                </button>
+                {mode.kind !== 'bookmarked' && PREMIUM_ENABLED && (
+                  <button
+                    onClick={() => setMode({ kind: 'bookmarked', order: mode.order })}
+                    className="rounded-xl border border-slate-300 bg-white px-4 py-2 text-sm"
+                  >
+                    Ver Guardadas
+                  </button>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
 
         <div className="mx-auto max-w-[var(--card-max-w)] px-4">
           <div className="grid grid-cols-2 gap-3">
