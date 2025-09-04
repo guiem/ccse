@@ -202,7 +202,76 @@ export default function App() {
   if (!items || queue.length === 0) {
     return (
       <div>
-        <Header onOpenStats={() => setStatsOpen(true)} />
+        <Header
+          onOpenStats={() => setStatsOpen(true)}
+          {...(PREMIUM_ENABLED ? {
+            onExport: () => {
+              const payload = {
+                version: 1,
+                exportedAt: new Date().toISOString(),
+                stats,
+                bookmarks: Array.from(bookmarks),
+                mode,
+              }
+              const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' })
+              const a = document.createElement('a')
+              a.href = URL.createObjectURL(blob)
+              const ts = new Date().toISOString().replace(/[:.]/g, '-')
+              a.download = `ccse-datos-${ts}.json`
+              document.body.appendChild(a)
+              a.click()
+              setTimeout(() => {
+                URL.revokeObjectURL(a.href)
+                a.remove()
+              }, 0)
+            },
+            onImport: async (file: File) => {
+              try {
+                const text = await file.text()
+                const data = JSON.parse(text)
+                if (data && typeof data === 'object') {
+                  if (data.stats && typeof data.stats === 'object') {
+                    const newStats: Stats = {
+                      attempts: Number(data.stats.attempts) || 0,
+                      correct: Number(data.stats.correct) || 0,
+                      wrong: Number(data.stats.wrong) || 0,
+                      wrongCountById: typeof data.stats.wrongCountById === 'object' && data.stats.wrongCountById ? data.stats.wrongCountById : {},
+                      lastUpdated: new Date().toISOString(),
+                      lastSeqAll: typeof data.stats.lastSeqAll === 'number' ? data.stats.lastSeqAll : undefined,
+                      lastSeqByTask: data.stats.lastSeqByTask || undefined,
+                    }
+                    setStats(newStats)
+                    saveStats(newStats)
+                  }
+                  if (Array.isArray(data.bookmarks)) {
+                    const ids = data.bookmarks.filter((x: any) => typeof x === 'string')
+                    setBookmarks(new Set(ids))
+                    saveBookmarks(ids)
+                  }
+                  if (data.mode && typeof data.mode === 'object') {
+                    const m = data.mode
+                    const validKinds = ['all','task','failed','bookmarked']
+                    const validOrders = ['random','sequential']
+                    if (validKinds.includes(m.kind) && validOrders.includes(m.order)) {
+                      if (m.kind === 'task') {
+                        const tasks = ['tarea_1','tarea_2','tarea_3','tarea_4','tarea_5']
+                        if (tasks.includes(m.task)) setMode({ kind: 'task', task: m.task, order: m.order })
+                        else setMode({ kind: 'all', order: m.order })
+                      } else {
+                        setMode(m)
+                      }
+                    }
+                  }
+                  window.scrollTo({ top: 0, behavior: 'smooth' })
+                  alert('Datos importados correctamente.')
+                }
+              } catch (e) {
+                console.error(e)
+                alert('No se pudo importar el archivo. Verifica que sea un JSON válido.')
+              }
+            }
+          } : {})}
+        />
         <div className="p-6 max-w-screen-md mx-auto">
           <p>Cargando…</p>
         </div>
@@ -214,7 +283,76 @@ export default function App() {
 
   return (
     <div>
-      <Header onOpenStats={() => setStatsOpen(true)} />
+      <Header
+        onOpenStats={() => setStatsOpen(true)}
+        {...(PREMIUM_ENABLED ? {
+          onExport: () => {
+            const payload = {
+              version: 1,
+              exportedAt: new Date().toISOString(),
+              stats,
+              bookmarks: Array.from(bookmarks),
+              mode,
+            }
+            const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' })
+            const a = document.createElement('a')
+            a.href = URL.createObjectURL(blob)
+            const ts = new Date().toISOString().replace(/[:.]/g, '-')
+            a.download = `ccse-datos-${ts}.json`
+            document.body.appendChild(a)
+            a.click()
+            setTimeout(() => {
+              URL.revokeObjectURL(a.href)
+              a.remove()
+            }, 0)
+          },
+          onImport: async (file: File) => {
+            try {
+              const text = await file.text()
+              const data = JSON.parse(text)
+              if (data && typeof data === 'object') {
+                if (data.stats && typeof data.stats === 'object') {
+                  const newStats: Stats = {
+                    attempts: Number(data.stats.attempts) || 0,
+                    correct: Number(data.stats.correct) || 0,
+                    wrong: Number(data.stats.wrong) || 0,
+                    wrongCountById: typeof data.stats.wrongCountById === 'object' && data.stats.wrongCountById ? data.stats.wrongCountById : {},
+                    lastUpdated: new Date().toISOString(),
+                    lastSeqAll: typeof data.stats.lastSeqAll === 'number' ? data.stats.lastSeqAll : undefined,
+                    lastSeqByTask: data.stats.lastSeqByTask || undefined,
+                  }
+                  setStats(newStats)
+                  saveStats(newStats)
+                }
+                if (Array.isArray(data.bookmarks)) {
+                  const ids = data.bookmarks.filter((x: any) => typeof x === 'string')
+                  setBookmarks(new Set(ids))
+                  saveBookmarks(ids)
+                }
+                if (data.mode && typeof data.mode === 'object') {
+                  const m = data.mode
+                  const validKinds = ['all','task','failed','bookmarked']
+                  const validOrders = ['random','sequential']
+                  if (validKinds.includes(m.kind) && validOrders.includes(m.order)) {
+                    if (m.kind === 'task') {
+                      const tasks = ['tarea_1','tarea_2','tarea_3','tarea_4','tarea_5']
+                      if (tasks.includes(m.task)) setMode({ kind: 'task', task: m.task, order: m.order })
+                      else setMode({ kind: 'all', order: m.order })
+                    } else {
+                      setMode(m)
+                    }
+                  }
+                }
+                window.scrollTo({ top: 0, behavior: 'smooth' })
+                alert('Datos importados correctamente.')
+              }
+            } catch (e) {
+              console.error(e)
+              alert('No se pudo importar el archivo. Verifica que sea un JSON válido.')
+            }
+          }
+        } : {})}
+      />
       <Controls
         mode={mode}
         setMode={setMode}

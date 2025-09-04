@@ -15,7 +15,7 @@ export default function StatsModal({ open, onClose, stats, items }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/30">
-      <div className="w-full sm:max-w-lg sm:rounded-2xl sm:shadow-xl sm:overflow-hidden sm:glass bg-white p-5 animate-popin">
+      <div className="w-full sm:max-w-lg sm:rounded-2xl sm:shadow-xl sm:glass bg-white p-5 animate-popin max-h-[90vh] overflow-y-auto">
         <div className="flex items-center justify-between mb-2">
           <h2 className="text-lg font-semibold">Estadísticas</h2>
           <button onClick={onClose} className="rounded-full px-3 py-1 text-sm bg-slate-900 text-white">Cerrar</button>
